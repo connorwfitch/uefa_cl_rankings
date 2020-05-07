@@ -1,0 +1,217 @@
+﻿team1,team2,score1,score2
+tottenham,liverpool,0,2
+ajax,tottenham,2,3
+liverpool,barcelona,4,0
+barcelona,liverpool,3,0
+tottenham,ajax,0,1
+porto,liverpool,1,4
+man city,tottenham,4,3
+juventus,ajax,1,2
+barcelona,man united,3,0
+man united,barcelona,0,1
+ajax,juventus,1,1
+tottenham,man city,1,0
+liverpool,porto,2,0
+barcelona,lyon,5,1
+bayern,liverpool,1,3
+juventus,atletico,3,0
+man city,schalke,7,0
+paris,man united,1,3
+porto,roma,3,1
+dortmund,tottenham,0,1
+real madrid,ajax,1,4
+atletico,juventus,2,0
+schalke,man city,2,3
+lyon,barcelona,0,0
+liverpool,bayern,0,0
+tottenham,dortmund,3,0
+ajax,real madrid,1,2
+roma,porto,2,1
+man united,paris,0,2
+valencia,man united,2,1
+young boys,juventus,2,1
+man city,hoffenheim,2,1
+shakhtar donetsk,lyon,1,1
+benfica,aek,1,0
+ajax,bayern,3,3
+plzen,roma,2,1
+real madrid,cska moskva,0,3
+crvena zvezda,paris,1,4
+liverpool,napoli,1,0
+internazionale,psv,1,1
+barcelona,tottenham,1,1
+monaco,dortmund,0,2
+club brugge,atletico,0,0
+schalke,lokomotiv moskva,1,0
+galatasaray,porto,2,3
+porto,schalke,3,1
+napoli,crvena zvezda,3,1
+paris,liverpool,2,1
+tottenham,internazionale,1,0
+psv,barcelona,1,2
+dortmund,club brugge,0,0
+lokomotiv moskva,galatasaray,2,0
+atletico,monaco,2,0
+juventus,valencia,1,0
+man united,young boys,1,0
+roma,real madrid,0,2
+lyon,man city,2,2
+hoffenheim,shakhtar donetsk,2,3
+bayern,benfica,5,1
+cska moskva,plzen,1,2
+aek,ajax,0,2
+juventus,man united,1,2
+plzen,real madrid,0,5
+man city,shakhtar donetsk,6,0
+lyon,hoffenheim,2,2
+benfica,ajax,1,1
+bayern,aek,2,0
+valencia,young boys,3,1
+cska moskva,roma,1,2
+schalke,galatasaray,2,0
+porto,lokomotiv moskva,4,1
+napoli,paris,1,1
+internazionale,barcelona,1,1
+tottenham,psv,2,1
+atletico,dortmund,2,0
+crvena zvezda,liverpool,2,0
+monaco,club brugge,0,4
+galatasaray,schalke,0,0
+lokomotiv moskva,porto,1,3
+liverpool,crvena zvezda,4,0
+paris,napoli,2,2
+barcelona,internazionale,2,0
+dortmund,atletico,4,0
+psv,tottenham,2,2
+club brugge,monaco,1,1
+man united,juventus,0,1
+real madrid,plzen,2,1
+roma,cska moskva,3,0
+shakhtar donetsk,man city,0,3
+hoffenheim,lyon,3,3
+ajax,benfica,1,0
+young boys,valencia,1,1
+aek,bayern,0,2
+porto,galatasaray,1,0
+napoli,liverpool,1,0
+psv,internazionale,1,2
+tottenham,barcelona,2,4
+dortmund,monaco,3,0
+atletico,club brugge,3,1
+lokomotiv moskva,schalke,0,1
+paris,crvena zvezda,6,1
+man united,valencia,0,0
+roma,plzen,5,0
+cska moskva,real madrid,1,0
+lyon,shakhtar donetsk,2,2
+aek,benfica,2,3
+bayern,ajax,1,1
+juventus,young boys,3,0
+hoffenheim,man city,1,2
+valencia,juventus,0,2
+young boys,man united,0,3
+plzen,cska moskva,2,2
+real madrid,roma,3,0
+man city,lyon,1,2
+benfica,bayern,0,2
+shakhtar donetsk,hoffenheim,2,2
+ajax,aek,3,0
+schalke,porto,1,1
+galatasaray,lokomotiv moskva,3,0
+crvena zvezda,napoli,0,0
+liverpool,paris,3,2
+monaco,atletico,1,2
+club brugge,dortmund,0,1
+internazionale,tottenham,2,1
+barcelona,psv,4,0
+paok,benfica,1,4
+psv,bate,3,0
+salzburg,crvena zvezda,2,2
+dynamo kyiv,ajax,0,0
+aek,fehervar,1,1
+dinamo zagreb,young boys,1,2
+ajax,dynamo kyiv,3,1
+fehervar,aek,1,2
+young boys,dinamo zagreb,1,1
+benfica,paok,1,1
+bate,psv,2,3
+crvena zvezda,salzburg,0,0
+ajax,standard liege,3,0
+spartak trnava,crvena zvezda,1,2
+shkendija,salzburg,0,1
+fenerbahce,benfica,1,1
+fehervar,malmo,0,0
+dinamo zagreb,astana,1,0
+aek,celtic,2,1
+spartak moskva,paok,0,0
+bate,qarabag,1,1
+dynamo kyiv,slavia praha,2,0
+celtic,aek,1,1
+paok,spartak moskva,3,2
+salzburg,shkendija,3,0
+benfica,fenerbahce,1,0
+crvena zvezda,spartak trnava,1,1
+standard liege,ajax,2,2
+slavia praha,dynamo kyiv,1,1
+malmo,fehervar,1,1
+qarabag,bate,0,1
+astana,dinamo zagreb,0,2
+rosenborg,celtic,0,0
+sturm,ajax,1,3
+basel,paok,0,3
+fehervar,ludogorets,1,0
+suduva,crvena zvezda,0,2
+malmo,cfr cluj,1,1
+qarabag,kukes,3,0
+midtjylland,astana,0,0
+hjk,bate,1,2
+spartak trnava,legia,0,1
+sheriff,shkendija,0,0
+h beer sheva,dinamo zagreb,2,2
+celtic,rosenborg,3,1
+ajax,sturm,2,0
+bate,hjk,0,0
+kukes,qarabag,0,0
+ludogorets,fehervar,0,0
+legia,spartak trnava,0,2
+crvena zvezda,suduva,3,0
+shkendija,sheriff,1,0
+dinamo zagreb,h beer sheva,5,0
+paok,basel,2,1
+cfr cluj,malmo,0,1
+astana,midtjylland,2,1
+celtic,alashkert,3,0
+sutjeska,astana,0,2
+rosenborg,valur,3,1
+zrinjski,spartak trnava,1,1
+qarabag,olimpija ljubljana,0,0
+sheriff,torpedo kutaisi,3,0
+legia,cork,3,0
+crusaders,ludogorets,0,2
+crvena zvezda,spartaks jurmala,2,0
+fehervar,dudelange,2,1
+tns,shkendija,4,0
+h beer sheva,flora,3,1
+malmo,drita,2,0
+apoel,suduva,1,0
+valletta,kukes,1,1
+hjk,vikingur,3,1
+valur,rosenborg,1,0
+olimpija ljubljana,qarabag,0,1
+kukes,valletta,0,0
+ludogorets,crusaders,7,0
+spartak trnava,zrinjski,1,0
+spartaks jurmala,crvena zvezda,0,0
+suduva,apoel,3,1
+astana,sutjeska,1,0
+cork,legia,0,1
+drita,malmo,0,3
+shkendija,tns,5,0
+vikingur,hjk,1,2
+alashkert,celtic,0,3
+dudelange,fehervar,1,1
+flora,h beer sheva,1,4
+torpedo kutaisi,sheriff,2,1
+lincoln red imps,drita,1,4
+la fiorita,lincoln red imps,0,2
+fc santa coloma,drita,0,2
