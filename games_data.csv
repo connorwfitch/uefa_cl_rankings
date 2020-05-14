@@ -2973,7 +2973,7 @@ anderlecht,waasland beveren,3,0
 sint truiden,genk,2,3
 standard liege,kortrijk,2,1
 as eupen,lokeren,4,1
-waasland beveren,cercle brugge,1,1
+waasland beveren,cercle,1,1
 zulte,antwerp,1,2
 club brugge,charleroi,0,1
 gent,anderlecht,1,0
@@ -3009,10 +3009,10 @@ zulte,sint truiden,1,1
 waasland beveren,gent,2,1
 club brugge,genk,3,1
 antwerp,anderlecht,0,1
-royal excel,cercle brugge,3,0
+royal excel,cercle,3,0
 gent,standard liege,2,1
 as eupen,zulte,2,3
-cercle brugge,kv,2,2
+cercle,kv,2,2
 waasland beveren,kortrijk,2,6
 royal excel,lokeren,1,0
 anderlecht,club brugge,2,2
@@ -3031,7 +3031,7 @@ gent,kv,2,1
 genk,lokeren,1,0
 royal excel,sint truiden,1,1
 as eupen,club brugge,0,4
-cercle brugge,standard liege,1,2
+cercle,standard liege,1,2
 antwerp,charleroi,1,2
 waasland beveren,zulte,1,1
 club brugge,royal excel,1,2
@@ -3039,7 +3039,7 @@ standard liege,waasland beveren,4,3
 kortrijk,antwerp,2,0
 kv,anderlecht,0,2
 zulte,genk,3,3
-lokeren,cercle brugge,3,1
+lokeren,cercle,3,1
 charleroi,as eupen,1,2
 sint truiden,gent,0,2
 crvena zvezda,dinamo vranje,3,0
