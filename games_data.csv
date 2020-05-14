@@ -124,94 +124,4259 @@ monaco,atletico,1,2
 club brugge,dortmund,0,1
 internazionale,tottenham,2,1
 barcelona,psv,4,0
-paok,benfica,1,4
-psv,bate,3,0
-salzburg,crvena zvezda,2,2
-dynamo kyiv,ajax,0,0
-aek,fehervar,1,1
-dinamo zagreb,young boys,1,2
-ajax,dynamo kyiv,3,1
-fehervar,aek,1,2
-young boys,dinamo zagreb,1,1
-benfica,paok,1,1
-bate,psv,2,3
-crvena zvezda,salzburg,0,0
-ajax,standard liege,3,0
-spartak trnava,crvena zvezda,1,2
-shkendija,salzburg,0,1
-fenerbahce,benfica,1,1
-fehervar,malmo,0,0
-dinamo zagreb,astana,1,0
-aek,celtic,2,1
-spartak moskva,paok,0,0
-bate,qarabag,1,1
-dynamo kyiv,slavia praha,2,0
-celtic,aek,1,1
-paok,spartak moskva,3,2
-salzburg,shkendija,3,0
-benfica,fenerbahce,1,0
-crvena zvezda,spartak trnava,1,1
-standard liege,ajax,2,2
-slavia praha,dynamo kyiv,1,1
-malmo,fehervar,1,1
-qarabag,bate,0,1
-astana,dinamo zagreb,0,2
-rosenborg,celtic,0,0
-sturm,ajax,1,3
-basel,paok,0,3
-fehervar,ludogorets,1,0
-suduva,crvena zvezda,0,2
-malmo,cfr cluj,1,1
-qarabag,kukes,3,0
-midtjylland,astana,0,0
-hjk,bate,1,2
-spartak trnava,legia,0,1
-sheriff,shkendija,0,0
-h beer sheva,dinamo zagreb,2,2
-celtic,rosenborg,3,1
-ajax,sturm,2,0
-bate,hjk,0,0
-kukes,qarabag,0,0
-ludogorets,fehervar,0,0
-legia,spartak trnava,0,2
-crvena zvezda,suduva,3,0
-shkendija,sheriff,1,0
-dinamo zagreb,h beer sheva,5,0
-paok,basel,2,1
-cfr cluj,malmo,0,1
-astana,midtjylland,2,1
-celtic,alashkert,3,0
-sutjeska,astana,0,2
-rosenborg,valur,3,1
-zrinjski,spartak trnava,1,1
-qarabag,olimpija ljubljana,0,0
-sheriff,torpedo kutaisi,3,0
-legia,cork,3,0
-crusaders,ludogorets,0,2
-crvena zvezda,spartaks jurmala,2,0
-fehervar,dudelange,2,1
-tns,shkendija,4,0
-h beer sheva,flora,3,1
-malmo,drita,2,0
-apoel,suduva,1,0
-valletta,kukes,1,1
-hjk,vikingur,3,1
-valur,rosenborg,1,0
-olimpija ljubljana,qarabag,0,1
-kukes,valletta,0,0
-ludogorets,crusaders,7,0
-spartak trnava,zrinjski,1,0
-spartaks jurmala,crvena zvezda,0,0
-suduva,apoel,3,1
-astana,sutjeska,1,0
-cork,legia,0,1
-drita,malmo,0,3
-shkendija,tns,5,0
-vikingur,hjk,1,2
-alashkert,celtic,0,3
-dudelange,fehervar,1,1
-flora,h beer sheva,1,4
-torpedo kutaisi,sheriff,2,1
-lincoln red imps,drita,1,4
-la fiorita,lincoln red imps,0,2
-fc santa coloma,drita,0,2
+marseille,toulouse,4,0
+nantes,monaco,1,3
+angers,nimes,3,4
+lille,rennes,3,1
+montpellier,dijon,1,2
+nice,reims,0,1
+saint etienne,guingamp,2,1
+lyon,amiens,2,0
+bordeaux,strasbourg alsace,0,2
+paris,caen,3,0
+reims,lyon,1,0
+guingamp,paris,1,3
+amiens,montpellier,1,2
+caen,nice,1,1
+dijon,nantes,2,0
+monaco,lille,0,0
+rennes,angers,1,0
+strasbourg alsace,saint etienne,1,1
+toulouse,bordeaux,2,1
+nimes,marseille,3,1
+lyon,strasbourg alsace,2,0
+paris,angers,3,1
+amiens,reims,4,1
+montpellier,saint etienne,0,0
+nantes,caen,1,1
+nice,dijon,0,4
+toulouse,nimes,1,0
+lille,guingamp,3,0
+bordeaux,monaco,2,1
+marseille,rennes,2,2
+lyon,nice,0,1
+nimes,paris,2,4
+angers,lille,1,0
+dijon,caen,0,2
+guingamp,toulouse,1,2
+reims,montpellier,0,1
+strasbourg alsace,nantes,2,3
+saint etienne,amiens,0,0
+rennes,bordeaux,2,0
+monaco,marseille,2,3
+nice,rennes,2,1
+paris,saint etienne,4,0
+caen,lyon,2,2
+amiens,lille,2,3
+dijon,angers,1,3
+montpellier,strasbourg alsace,1,1
+toulouse,monaco,1,1
+nantes,reims,0,0
+bordeaux,nimes,3,3
+marseille,guingamp,4,0
+monaco,nimes,1,1
+lille,nantes,2,1
+angers,toulouse,0,0
+montpellier,nice,1,0
+reims,dijon,0,0
+saint etienne,caen,2,1
+strasbourg alsace,amiens,3,1
+rennes,paris,1,3
+guingamp,bordeaux,1,3
+lyon,marseille,4,2
+monaco,angers,0,1
+nantes,nice,1,2
+toulouse,saint etienne,2,3
+amiens,rennes,2,1
+bordeaux,lille,1,0
+caen,montpellier,2,2
+dijon,lyon,0,3
+marseille,strasbourg alsace,3,2
+nimes,guingamp,0,0
+paris,reims,4,1
+saint etienne,monaco,2,0
+nice,paris,0,3
+angers,guingamp,0,1
+caen,amiens,1,0
+lyon,nantes,1,1
+reims,bordeaux,0,0
+strasbourg alsace,dijon,3,0
+rennes,toulouse,1,1
+montpellier,nimes,3,0
+lille,marseille,3,0
+toulouse,nice,1,1
+lille,saint etienne,3,1
+amiens,dijon,1,0
+angers,strasbourg alsace,2,2
+guingamp,montpellier,1,1
+nimes,reims,0,0
+bordeaux,nantes,3,0
+marseille,caen,2,0
+monaco,rennes,1,2
+paris,lyon,5,0
+lyon,nimes,2,0
+paris,amiens,5,0
+caen,guingamp,0,0
+dijon,lille,1,2
+nantes,toulouse,4,0
+reims,angers,1,1
+strasbourg alsace,monaco,2,1
+montpellier,bordeaux,2,0
+saint etienne,rennes,1,1
+nice,marseille,0,1
+nimes,saint etienne,1,1
+angers,lyon,1,2
+amiens,nantes,1,2
+guingamp,strasbourg alsace,1,1
+lille,caen,1,0
+monaco,dijon,2,2
+toulouse,montpellier,0,3
+rennes,reims,0,2
+bordeaux,nice,0,1
+marseille,paris,0,2
+paris,lille,2,1
+lyon,bordeaux,1,1
+caen,rennes,1,2
+dijon,nimes,0,4
+nice,amiens,1,0
+reims,monaco,1,0
+strasbourg alsace,toulouse,1,1
+nantes,guingamp,5,0
+saint etienne,angers,4,3
+montpellier,marseille,3,0
+lille,strasbourg alsace,0,0
+guingamp,lyon,2,4
+angers,montpellier,1,0
+nimes,nice,0,1
+saint etienne,reims,2,0
+toulouse,amiens,0,1
+bordeaux,caen,0,0
+marseille,dijon,2,0
+rennes,nantes,1,1
+monaco,paris,0,4
+lyon,saint etienne,1,0
+paris,toulouse,1,0
+caen,monaco,0,1
+dijon,bordeaux,0,0
+nantes,angers,1,1
+reims,guingamp,2,1
+strasbourg alsace,nimes,0,1
+montpellier,rennes,2,2
+nice,lille,2,0
+amiens,marseille,1,3
+saint etienne,nantes,3,0
+lille,lyon,2,2
+angers,caen,1,1
+guingamp,nice,0,0
+monaco,montpellier,1,2
+nimes,amiens,3,0
+toulouse,dijon,2,2
+marseille,reims,0,0
+rennes,strasbourg alsace,1,4
+bordeaux,paris,2,2
+amiens,monaco,0,2
+nice,angers,0,0
+montpellier,lille,0,1
+bordeaux,saint etienne,3,2
+caen,nimes,1,2
+dijon,guingamp,2,1
+lyon,rennes,0,2
+nantes,marseille,3,2
+reims,toulouse,0,1
+strasbourg alsace,paris,1,1
+guingamp,amiens,1,2
+rennes,dijon,2,0
+strasbourg alsace,caen,2,2
+lille,reims,1,1
+angers,bordeaux,1,2
+monaco,nice,1,1
+nimes,nantes,1,0
+toulouse,lyon,2,2
+saint etienne,marseille,2,1
+paris,montpellier,5,1
+reims,strasbourg alsace,2,1
+nimes,lille,2,3
+nice,saint etienne,1,1
+lyon,monaco,3,0
+caen,toulouse,2,1
+amiens,angers,0,0
+nantes,montpellier,2,0
+guingamp,rennes,2,1
+marseille,bordeaux,1,0
+dijon,paris,0,4
+angers,marseille,1,1
+lille,toulouse,1,2
+monaco,guingamp,0,2
+montpellier,lyon,1,1
+paris,nantes,1,0
+reims,caen,2,2
+rennes,nimes,4,0
+saint etienne,dijon,3,0
+strasbourg alsace,nice,2,0
+bordeaux,amiens,1,1
+caen,lille,1,3
+lyon,reims,1,1
+amiens,paris,0,3
+guingamp,saint etienne,0,1
+nice,bordeaux,1,0
+nantes,rennes,0,1
+dijon,montpellier,1,1
+toulouse,strasbourg alsace,1,2
+marseille,monaco,1,1
+nimes,angers,3,1
+lille,amiens,2,1
+paris,guingamp,9,0
+monaco,strasbourg alsace,1,5
+nimes,toulouse,0,1
+reims,nice,1,1
+rennes,montpellier,0,0
+angers,nantes,1,0
+caen,marseille,0,1
+bordeaux,dijon,1,0
+saint etienne,lyon,1,2
+marseille,lille,1,2
+dijon,monaco,2,0
+guingamp,reims,0,1
+nice,nimes,2,0
+strasbourg alsace,bordeaux,1,0
+montpellier,caen,2,0
+amiens,lyon,0,1
+toulouse,angers,0,0
+paris,rennes,4,1
+nantes,saint etienne,1,1
+lille,nice,4,0
+angers,dijon,1,0
+monaco,toulouse,2,1
+rennes,amiens,1,0
+reims,marseille,2,1
+nimes,montpellier,1,1
+lyon,paris,2,1
+saint etienne,strasbourg alsace,2,1
+caen,nantes,0,1
+bordeaux,guingamp,0,0
+dijon,marseille,1,2
+paris,bordeaux,1,0
+amiens,caen,1,0
+strasbourg alsace,angers,1,2
+montpellier,monaco,2,2
+nantes,nimes,2,4
+toulouse,reims,1,1
+guingamp,lille,0,2
+rennes,saint etienne,3,0
+nice,lyon,1,0
+nimes,dijon,2,0
+lyon,guingamp,2,1
+marseille,amiens,2,0
+angers,nice,3,0
+monaco,nantes,1,0
+bordeaux,toulouse,2,1
+caen,strasbourg alsace,0,0
+lille,montpellier,0,0
+reims,rennes,2,0
+saint etienne,paris,0,1
+dijon,saint etienne,0,1
+strasbourg alsace,lille,1,1
+paris,nimes,3,0
+amiens,nice,1,0
+guingamp,angers,1,0
+montpellier,reims,2,4
+nantes,bordeaux,1,0
+toulouse,caen,1,1
+rennes,marseille,1,1
+monaco,lyon,2,0
+caen,paris,1,2
+angers,monaco,2,2
+reims,amiens,2,2
+guingamp,nantes,0,0
+lille,dijon,1,0
+nice,strasbourg alsace,1,0
+lyon,toulouse,5,1
+marseille,saint etienne,2,0
+bordeaux,montpellier,1,2
+nimes,rennes,3,1
+strasbourg alsace,lyon,2,2
+amiens,nimes,2,1
+dijon,reims,1,1
+monaco,bordeaux,1,1
+montpellier,angers,2,2
+saint etienne,lille,0,1
+toulouse,guingamp,1,0
+rennes,caen,3,1
+marseille,nice,1,0
+nantes,paris,3,2
+nice,toulouse,1,1
+lille,monaco,0,1
+angers,amiens,0,0
+caen,saint etienne,0,5
+guingamp,dijon,1,0
+nimes,strasbourg alsace,2,2
+lyon,montpellier,3,2
+reims,nantes,1,0
+bordeaux,rennes,1,1
+paris,marseille,3,1
+rennes,lyon,0,1
+marseille,angers,2,2
+amiens,bordeaux,0,0
+dijon,nice,0,1
+monaco,caen,0,1
+nantes,lille,2,3
+toulouse,paris,0,1
+saint etienne,nimes,2,1
+montpellier,guingamp,2,0
+strasbourg alsace,reims,4,0
+bordeaux,marseille,2,0
+lyon,dijon,1,3
+amiens,saint etienne,2,2
+angers,rennes,3,3
+guingamp,monaco,1,1
+nimes,caen,2,0
+reims,lille,1,1
+toulouse,nantes,1,0
+nice,montpellier,1,0
+paris,strasbourg alsace,2,2
+dijon,amiens,0,0
+nantes,lyon,2,1
+marseille,nimes,2,1
+caen,angers,0,1
+monaco,reims,0,0
+strasbourg alsace,guingamp,3,3
+montpellier,toulouse,2,1
+rennes,nice,0,0
+saint etienne,bordeaux,3,0
+lille,paris,5,1
+dijon,rennes,3,2
+lyon,angers,2,1
+guingamp,marseille,1,3
+nice,caen,0,1
+nimes,bordeaux,2,1
+strasbourg alsace,montpellier,1,3
+nantes,amiens,3,2
+toulouse,lille,0,0
+reims,saint etienne,0,2
+paris,monaco,3,1
+bordeaux,lyon,2,3
+amiens,strasbourg alsace,0,0
+angers,reims,1,1
+caen,dijon,1,0
+lille,nimes,5,0
+nice,guingamp,3,0
+saint etienne,toulouse,2,0
+marseille,nantes,1,2
+montpellier,paris,3,2
+rennes,monaco,2,2
+strasbourg alsace,marseille,1,1
+paris,nice,1,1
+bordeaux,angers,0,1
+guingamp,caen,0,0
+reims,nimes,0,3
+montpellier,amiens,1,1
+nantes,dijon,3,0
+toulouse,rennes,2,2
+monaco,saint etienne,2,3
+lyon,lille,2,2
+saint etienne,montpellier,0,1
+angers,paris,1,2
+amiens,toulouse,0,0
+caen,reims,3,2
+dijon,strasbourg alsace,2,1
+nice,nantes,1,1
+nimes,monaco,1,0
+rennes,guingamp,1,1
+lille,bordeaux,1,0
+marseille,lyon,0,3
+bordeaux,reims,0,1
+guingamp,nimes,2,2
+lille,angers,5,0
+lyon,caen,4,0
+monaco,amiens,2,0
+montpellier,nantes,1,1
+paris,dijon,4,0
+saint etienne,nice,3,0
+strasbourg alsace,rennes,0,2
+toulouse,marseille,2,5
+amiens,guingamp,2,1
+angers,saint etienne,1,1
+caen,bordeaux,0,1
+dijon,toulouse,2,1
+marseille,montpellier,1,0
+nantes,strasbourg alsace,0,1
+nice,monaco,2,0
+nimes,lyon,2,3
+reims,paris,3,1
+rennes,lille,3,1
+bayern,hoffenheim,3,1
+berlin,nurnberg,1,0
+bremen,hannover,1,1
+freiburg,frankfurt,0,2
+wolfsburg,schalke,2,1
+dusseldorf,augsburg,1,2
+borussia monchengladbach,leverkusen,2,0
+mainz,stuttgart,1,0
+dortmund,leipzig,4,1
+hannover,dortmund,0,0
+hoffenheim,freiburg,3,1
+leverkusen,wolfsburg,1,3
+frankfurt,bremen,1,2
+augsburg,borussia monchengladbach,1,1
+nurnberg,mainz,1,1
+stuttgart,bayern,0,3
+leipzig,dusseldorf,1,1
+schalke,berlin,0,2
+dortmund,frankfurt,3,1
+bayern,leverkusen,3,1
+leipzig,hannover,3,2
+mainz,augsburg,2,1
+wolfsburg,berlin,2,2
+dusseldorf,hoffenheim,2,1
+borussia monchengladbach,schalke,2,1
+bremen,nurnberg,1,1
+freiburg,stuttgart,3,3
+stuttgart,dusseldorf,0,0
+hoffenheim,dortmund,1,1
+berlin,borussia monchengladbach,4,2
+augsburg,bremen,2,3
+wolfsburg,freiburg,1,3
+nurnberg,hannover,2,0
+schalke,bayern,0,2
+leverkusen,mainz,1,0
+frankfurt,leipzig,1,1
+bremen,berlin,3,1
+bayern,augsburg,1,1
+hannover,hoffenheim,1,3
+freiburg,schalke,1,0
+dusseldorf,leverkusen,1,2
+dortmund,nurnberg,7,0
+leipzig,stuttgart,2,0
+borussia monchengladbach,frankfurt,3,1
+mainz,wolfsburg,0,0
+berlin,bayern,2,0
+schalke,mainz,1,0
+hoffenheim,leipzig,1,2
+stuttgart,bremen,2,1
+wolfsburg,borussia monchengladbach,2,2
+nurnberg,dusseldorf,3,0
+leverkusen,dortmund,2,4
+frankfurt,hannover,4,1
+augsburg,freiburg,4,1
+bremen,wolfsburg,2,0
+dortmund,augsburg,4,3
+hannover,stuttgart,3,1
+mainz,berlin,0,0
+dusseldorf,schalke,0,2
+bayern,borussia monchengladbach,0,3
+freiburg,leverkusen,0,0
+hoffenheim,frankfurt,1,2
+leipzig,nurnberg,6,0
+frankfurt,dusseldorf,7,1
+leverkusen,hannover,2,2
+stuttgart,dortmund,0,4
+augsburg,leipzig,0,0
+wolfsburg,bayern,1,3
+nurnberg,hoffenheim,1,3
+schalke,bremen,0,2
+berlin,freiburg,1,1
+borussia monchengladbach,mainz,4,0
+freiburg,borussia monchengladbach,3,1
+dortmund,berlin,2,2
+hannover,augsburg,1,2
+mainz,bayern,1,2
+dusseldorf,wolfsburg,0,3
+hoffenheim,stuttgart,4,0
+nurnberg,frankfurt,1,1
+leipzig,schalke,0,0
+bremen,leverkusen,2,6
+stuttgart,frankfurt,0,3
+bayern,freiburg,1,1
+schalke,hannover,3,1
+leverkusen,hoffenheim,1,4
+augsburg,nurnberg,2,2
+wolfsburg,dortmund,0,1
+berlin,leipzig,0,3
+borussia monchengladbach,dusseldorf,3,0
+mainz,bremen,2,1
+hannover,wolfsburg,2,1
+hoffenheim,augsburg,2,1
+bremen,borussia monchengladbach,1,3
+freiburg,mainz,1,3
+dusseldorf,berlin,4,1
+nurnberg,stuttgart,0,2
+dortmund,bayern,3,2
+leipzig,leverkusen,3,0
+frankfurt,schalke,3,0
+leverkusen,stuttgart,2,0
+bayern,dusseldorf,3,3
+berlin,hoffenheim,3,3
+augsburg,frankfurt,1,3
+mainz,dortmund,1,2
+wolfsburg,leipzig,1,0
+schalke,nurnberg,5,2
+freiburg,bremen,1,1
+borussia monchengladbach,hannover,4,1
+dusseldorf,mainz,0,1
+dortmund,freiburg,2,0
+stuttgart,augsburg,1,0
+bremen,bayern,1,2
+hannover,berlin,0,2
+hoffenheim,schalke,1,1
+leipzig,borussia monchengladbach,2,0
+frankfurt,wolfsburg,1,2
+nurnberg,leverkusen,1,1
+bremen,dusseldorf,3,1
+bayern,nurnberg,3,0
+schalke,dortmund,1,2
+leverkusen,augsburg,1,0
+freiburg,leipzig,3,0
+wolfsburg,hoffenheim,2,2
+berlin,frankfurt,1,0
+mainz,hannover,1,1
+borussia monchengladbach,stuttgart,3,0
+nurnberg,wolfsburg,0,2
+hoffenheim,borussia monchengladbach,0,0
+stuttgart,berlin,2,1
+augsburg,schalke,1,1
+hannover,bayern,0,4
+dusseldorf,freiburg,2,0
+dortmund,bremen,2,1
+leipzig,mainz,4,1
+frankfurt,leverkusen,2,1
+borussia monchengladbach,nurnberg,2,0
+berlin,augsburg,2,2
+wolfsburg,stuttgart,2,0
+dusseldorf,dortmund,2,1
+schalke,leverkusen,1,2
+bayern,leipzig,1,0
+bremen,hoffenheim,1,1
+freiburg,hannover,1,1
+mainz,frankfurt,2,2
+dortmund,borussia monchengladbach,2,1
+leverkusen,berlin,3,1
+leipzig,bremen,3,2
+stuttgart,schalke,1,3
+hannover,dusseldorf,0,1
+nurnberg,freiburg,0,1
+frankfurt,bayern,0,3
+augsburg,wolfsburg,2,3
+hoffenheim,mainz,1,1
+hoffenheim,bayern,1,3
+leverkusen,borussia monchengladbach,0,1
+stuttgart,mainz,2,3
+frankfurt,freiburg,3,1
+augsburg,dusseldorf,1,2
+hannover,bremen,0,1
+leipzig,dortmund,0,1
+nurnberg,berlin,1,3
+schalke,wolfsburg,2,1
+berlin,schalke,2,2
+dortmund,hannover,5,1
+borussia monchengladbach,augsburg,2,0
+freiburg,hoffenheim,2,4
+mainz,nurnberg,2,1
+wolfsburg,leverkusen,0,3
+bremen,frankfurt,2,2
+bayern,stuttgart,4,1
+dusseldorf,leipzig,0,4
+hannover,leipzig,0,3
+hoffenheim,dusseldorf,1,1
+leverkusen,bayern,3,1
+frankfurt,dortmund,1,1
+berlin,wolfsburg,0,1
+nurnberg,bremen,1,1
+schalke,borussia monchengladbach,0,2
+augsburg,mainz,3,0
+stuttgart,freiburg,2,2
+mainz,leverkusen,1,5
+dortmund,hoffenheim,3,3
+leipzig,frankfurt,0,0
+borussia monchengladbach,berlin,0,3
+hannover,nurnberg,2,0
+freiburg,wolfsburg,3,3
+bayern,schalke,3,1
+bremen,augsburg,4,0
+dusseldorf,stuttgart,3,0
+augsburg,bayern,2,3
+schalke,freiburg,0,0
+hoffenheim,hannover,3,0
+stuttgart,leipzig,1,3
+wolfsburg,mainz,3,0
+berlin,bremen,1,1
+frankfurt,borussia monchengladbach,1,1
+leverkusen,dusseldorf,2,0
+nurnberg,dortmund,0,0
+bremen,stuttgart,1,1
+bayern,berlin,1,0
+borussia monchengladbach,wolfsburg,0,3
+freiburg,augsburg,5,1
+mainz,schalke,3,0
+dusseldorf,nurnberg,2,1
+hannover,frankfurt,0,3
+dortmund,leverkusen,3,2
+leipzig,hoffenheim,1,1
+augsburg,dortmund,2,1
+schalke,dusseldorf,0,4
+leverkusen,freiburg,2,0
+frankfurt,hoffenheim,3,2
+berlin,mainz,2,1
+nurnberg,leipzig,0,1
+borussia monchengladbach,bayern,1,5
+stuttgart,hannover,5,1
+wolfsburg,bremen,1,1
+bremen,schalke,4,2
+bayern,wolfsburg,6,0
+dortmund,stuttgart,3,1
+leipzig,augsburg,0,0
+freiburg,berlin,2,1
+mainz,borussia monchengladbach,0,1
+hoffenheim,nurnberg,2,1
+hannover,leverkusen,2,3
+dusseldorf,frankfurt,0,3
+borussia monchengladbach,freiburg,1,1
+schalke,leipzig,0,1
+stuttgart,hoffenheim,1,1
+augsburg,hannover,3,1
+wolfsburg,dusseldorf,5,2
+berlin,dortmund,2,3
+leverkusen,bremen,1,3
+frankfurt,nurnberg,1,0
+bayern,mainz,6,0
+hoffenheim,leverkusen,4,1
+dortmund,wolfsburg,2,0
+bremen,mainz,3,1
+freiburg,bayern,1,1
+dusseldorf,borussia monchengladbach,3,1
+nurnberg,augsburg,3,0
+leipzig,berlin,5,0
+hannover,schalke,0,1
+frankfurt,stuttgart,3,0
+mainz,freiburg,5,0
+schalke,frankfurt,1,2
+leverkusen,leipzig,2,4
+stuttgart,nurnberg,1,1
+berlin,dusseldorf,1,2
+wolfsburg,hannover,3,1
+bayern,dortmund,5,0
+augsburg,hoffenheim,0,4
+borussia monchengladbach,bremen,1,1
+nurnberg,schalke,1,1
+leipzig,wolfsburg,2,0
+stuttgart,leverkusen,0,1
+bremen,freiburg,2,1
+hannover,borussia monchengladbach,0,1
+dortmund,mainz,2,1
+hoffenheim,berlin,2,0
+dusseldorf,bayern,1,4
+frankfurt,augsburg,1,3
+bayern,bremen,1,0
+leverkusen,nurnberg,2,0
+augsburg,stuttgart,6,0
+mainz,dusseldorf,3,1
+borussia monchengladbach,leipzig,1,2
+schalke,hoffenheim,2,5
+freiburg,dortmund,0,4
+berlin,hannover,0,0
+wolfsburg,frankfurt,1,1
+augsburg,leverkusen,1,4
+dortmund,schalke,2,4
+leipzig,freiburg,2,1
+frankfurt,berlin,0,0
+hannover,mainz,1,0
+dusseldorf,bremen,4,1
+stuttgart,borussia monchengladbach,1,0
+hoffenheim,wolfsburg,1,4
+nurnberg,bayern,1,1
+mainz,leipzig,3,3
+bayern,hannover,3,1
+borussia monchengladbach,hoffenheim,2,2
+berlin,stuttgart,3,1
+wolfsburg,nurnberg,2,0
+bremen,dortmund,2,2
+schalke,augsburg,0,0
+freiburg,dusseldorf,1,1
+leverkusen,frankfurt,6,1
+hoffenheim,bremen,0,1
+dortmund,dusseldorf,3,2
+leverkusen,schalke,1,1
+leipzig,bayern,0,0
+stuttgart,wolfsburg,3,0
+augsburg,berlin,3,4
+hannover,freiburg,3,0
+nurnberg,borussia monchengladbach,0,4
+frankfurt,mainz,0,2
+bayern,frankfurt,5,1
+schalke,stuttgart,0,0
+borussia monchengladbach,dortmund,0,2
+berlin,leverkusen,1,5
+bremen,leipzig,2,1
+freiburg,nurnberg,5,1
+mainz,hoffenheim,4,2
+wolfsburg,augsburg,8,1
+dusseldorf,hannover,2,1
+man united,leicester,2,1
+newcastle,tottenham,1,2
+fulham,crystal palace,0,2
+watford,brighton,2,0
+huddersfield,chelsea,0,3
+bournemouth,cardiff,2,0
+wolverhampton,everton,2,2
+liverpool,west ham,4,0
+southampton,burnley,0,0
+arsenal,man city,0,2
+cardiff,newcastle,0,0
+everton,southampton,2,1
+leicester,wolverhampton,2,0
+west ham,bournemouth,1,2
+tottenham,fulham,3,1
+chelsea,arsenal,3,2
+man city,huddersfield,6,1
+burnley,watford,1,3
+brighton,man united,3,2
+crystal palace,liverpool,0,2
+wolverhampton,man city,1,1
+arsenal,west ham,3,1
+southampton,leicester,1,2
+huddersfield,cardiff,0,0
+bournemouth,everton,2,2
+liverpool,brighton,1,0
+watford,crystal palace,2,1
+fulham,burnley,4,2
+newcastle,chelsea,1,2
+man united,tottenham,0,3
+leicester,liverpool,1,2
+chelsea,bournemouth,2,0
+everton,huddersfield,1,1
+west ham,wolverhampton,0,1
+crystal palace,southampton,0,2
+brighton,fulham,2,2
+man city,newcastle,2,1
+cardiff,arsenal,2,3
+watford,tottenham,2,1
+burnley,man united,0,2
+tottenham,liverpool,1,2
+man city,fulham,3,0
+newcastle,arsenal,1,2
+huddersfield,crystal palace,0,1
+bournemouth,leicester,4,2
+chelsea,cardiff,4,1
+watford,man united,1,2
+wolverhampton,burnley,1,0
+everton,west ham,1,3
+southampton,brighton,2,2
+fulham,watford,1,1
+liverpool,southampton,3,0
+cardiff,man city,0,5
+man united,wolverhampton,1,1
+leicester,huddersfield,3,1
+crystal palace,newcastle,0,0
+burnley,bournemouth,4,0
+brighton,tottenham,1,2
+west ham,chelsea,0,0
+arsenal,everton,2,0
+west ham,man united,3,1
+man city,brighton,2,0
+arsenal,watford,2,0
+newcastle,leicester,0,2
+wolverhampton,southampton,2,0
+huddersfield,tottenham,0,2
+everton,fulham,3,0
+chelsea,liverpool,1,1
+cardiff,burnley,1,2
+bournemouth,crystal palace,2,1
+brighton,west ham,1,0
+watford,bournemouth,0,4
+leicester,everton,1,2
+crystal palace,wolverhampton,0,1
+burnley,huddersfield,1,1
+tottenham,cardiff,1,0
+man united,newcastle,3,2
+fulham,arsenal,1,5
+southampton,chelsea,0,3
+liverpool,man city,0,0
+chelsea,man united,2,2
+man city,burnley,5,0
+cardiff,fulham,4,2
+newcastle,brighton,0,1
+wolverhampton,watford,0,2
+bournemouth,southampton,0,0
+west ham,tottenham,0,1
+huddersfield,liverpool,0,1
+everton,crystal palace,2,0
+arsenal,leicester,3,1
+liverpool,cardiff,4,1
+fulham,bournemouth,0,3
+southampton,newcastle,0,0
+watford,huddersfield,3,0
+brighton,wolverhampton,1,0
+leicester,west ham,1,1
+crystal palace,arsenal,2,2
+burnley,chelsea,0,4
+man united,everton,2,1
+tottenham,man city,0,1
+bournemouth,man united,1,2
+cardiff,leicester,0,1
+newcastle,watford,1,0
+everton,brighton,3,1
+west ham,burnley,4,2
+arsenal,liverpool,1,1
+wolverhampton,tottenham,2,3
+man city,southampton,6,1
+chelsea,crystal palace,3,1
+huddersfield,fulham,1,0
+cardiff,brighton,2,1
+newcastle,bournemouth,2,1
+southampton,watford,1,1
+huddersfield,west ham,1,1
+leicester,burnley,0,0
+crystal palace,tottenham,0,1
+liverpool,fulham,2,0
+chelsea,everton,0,0
+man city,man united,3,1
+arsenal,wolverhampton,1,1
+fulham,southampton,3,2
+man united,crystal palace,0,0
+watford,liverpool,0,3
+everton,cardiff,1,0
+west ham,man city,0,4
+brighton,leicester,1,1
+tottenham,chelsea,3,1
+bournemouth,arsenal,1,2
+wolverhampton,huddersfield,0,2
+burnley,newcastle,1,2
+cardiff,wolverhampton,2,1
+man city,bournemouth,3,1
+newcastle,west ham,0,3
+huddersfield,brighton,1,2
+leicester,watford,2,0
+crystal palace,burnley,2,0
+southampton,man united,2,2
+chelsea,fulham,2,0
+arsenal,tottenham,4,2
+liverpool,everton,1,0
+bournemouth,huddersfield,2,1
+west ham,cardiff,3,1
+brighton,crystal palace,3,1
+watford,man city,1,2
+fulham,leicester,1,1
+wolverhampton,chelsea,2,1
+everton,newcastle,1,1
+burnley,liverpool,1,3
+man united,arsenal,2,2
+tottenham,southampton,3,1
+bournemouth,liverpool,0,4
+cardiff,southampton,1,0
+arsenal,huddersfield,1,0
+man united,fulham,4,1
+west ham,crystal palace,3,2
+burnley,brighton,1,0
+chelsea,man city,2,0
+leicester,tottenham,0,2
+newcastle,wolverhampton,1,2
+everton,watford,2,2
+man city,everton,3,1
+watford,cardiff,3,2
+wolverhampton,bournemouth,2,0
+huddersfield,newcastle,0,1
+crystal palace,leicester,1,0
+tottenham,burnley,1,0
+fulham,west ham,0,2
+southampton,arsenal,3,2
+brighton,chelsea,1,2
+liverpool,man united,3,1
+wolverhampton,liverpool,0,2
+arsenal,burnley,3,1
+man city,crystal palace,2,3
+newcastle,fulham,0,0
+huddersfield,southampton,1,3
+bournemouth,brighton,2,0
+chelsea,leicester,0,1
+west ham,watford,0,2
+cardiff,man united,1,5
+everton,tottenham,2,6
+fulham,wolverhampton,1,1
+liverpool,newcastle,4,0
+man united,huddersfield,3,1
+leicester,man city,2,1
+crystal palace,cardiff,0,0
+burnley,everton,1,5
+tottenham,bournemouth,5,0
+brighton,arsenal,1,1
+watford,chelsea,1,2
+southampton,west ham,1,2
+fulham,huddersfield,1,0
+watford,newcastle,1,1
+leicester,cardiff,0,1
+brighton,everton,1,0
+tottenham,wolverhampton,1,3
+liverpool,arsenal,5,1
+crystal palace,chelsea,0,1
+southampton,man city,1,3
+burnley,west ham,2,0
+man united,bournemouth,4,1
+everton,leicester,0,1
+arsenal,fulham,4,1
+cardiff,tottenham,0,3
+wolverhampton,crystal palace,0,2
+huddersfield,burnley,1,2
+bournemouth,watford,3,3
+chelsea,southampton,0,0
+west ham,brighton,2,2
+newcastle,man united,0,2
+man city,liverpool,2,1
+west ham,arsenal,1,0
+cardiff,huddersfield,0,0
+leicester,southampton,1,2
+crystal palace,watford,1,2
+burnley,fulham,2,1
+brighton,liverpool,0,1
+chelsea,newcastle,2,1
+everton,bournemouth,2,0
+tottenham,man united,0,1
+man city,wolverhampton,3,0
+wolverhampton,leicester,4,3
+liverpool,crystal palace,4,3
+man united,brighton,2,1
+newcastle,cardiff,3,0
+southampton,everton,2,1
+watford,burnley,0,0
+bournemouth,west ham,2,0
+arsenal,chelsea,2,0
+huddersfield,man city,0,3
+fulham,tottenham,1,2
+fulham,brighton,4,2
+arsenal,cardiff,2,1
+wolverhampton,west ham,3,0
+huddersfield,everton,0,1
+man united,burnley,2,2
+newcastle,man city,2,1
+southampton,crystal palace,1,1
+bournemouth,chelsea,4,0
+liverpool,leicester,1,1
+tottenham,watford,2,1
+tottenham,newcastle,1,0
+chelsea,huddersfield,5,0
+everton,wolverhampton,1,3
+crystal palace,fulham,2,0
+burnley,southampton,1,1
+brighton,watford,0,0
+cardiff,bournemouth,2,0
+leicester,man united,0,1
+man city,arsenal,3,1
+west ham,liverpool,1,1
+everton,man city,0,2
+fulham,man united,0,3
+liverpool,bournemouth,3,0
+southampton,cardiff,1,2
+watford,everton,1,0
+huddersfield,arsenal,1,2
+crystal palace,west ham,1,1
+brighton,burnley,1,3
+tottenham,leicester,3,1
+man city,chelsea,6,0
+wolverhampton,newcastle,1,1
+cardiff,watford,1,5
+west ham,fulham,3,1
+burnley,tottenham,2,1
+newcastle,huddersfield,2,0
+bournemouth,wolverhampton,1,1
+leicester,crystal palace,1,4
+arsenal,southampton,2,0
+man united,liverpool,0,0
+cardiff,everton,0,3
+huddersfield,wolverhampton,1,0
+leicester,brighton,2,1
+newcastle,burnley,2,0
+arsenal,bournemouth,5,1
+southampton,fulham,2,0
+liverpool,watford,5,0
+man city,west ham,1,0
+chelsea,tottenham,2,0
+crystal palace,man united,1,3
+tottenham,arsenal,1,1
+man united,southampton,3,2
+wolverhampton,cardiff,2,0
+bournemouth,man city,0,1
+burnley,crystal palace,1,3
+brighton,huddersfield,1,0
+west ham,newcastle,2,0
+watford,leicester,2,1
+fulham,chelsea,1,2
+everton,liverpool,0,0
+crystal palace,brighton,1,2
+cardiff,west ham,2,0
+newcastle,everton,3,2
+southampton,tottenham,2,1
+huddersfield,bournemouth,0,2
+leicester,fulham,3,1
+man city,watford,3,1
+liverpool,burnley,4,2
+chelsea,wolverhampton,1,1
+arsenal,man united,2,0
+bournemouth,newcastle,2,2
+west ham,huddersfield,4,3
+burnley,leicester,1,2
+fulham,liverpool,1,2
+everton,chelsea,2,0
+fulham,man city,0,2
+man united,watford,2,1
+leicester,bournemouth,2,0
+crystal palace,huddersfield,2,0
+burnley,wolverhampton,2,0
+brighton,southampton,0,1
+west ham,everton,0,2
+cardiff,chelsea,1,2
+liverpool,tottenham,2,1
+arsenal,newcastle,2,0
+watford,fulham,4,1
+wolverhampton,man united,2,1
+man city,cardiff,2,0
+tottenham,crystal palace,2,0
+chelsea,brighton,3,0
+southampton,liverpool,1,3
+newcastle,crystal palace,0,1
+huddersfield,leicester,1,4
+bournemouth,burnley,1,3
+everton,arsenal,1,0
+chelsea,west ham,2,0
+leicester,newcastle,0,1
+tottenham,huddersfield,4,0
+fulham,everton,2,0
+southampton,wolverhampton,3,1
+burnley,cardiff,2,0
+brighton,bournemouth,0,5
+man united,west ham,2,1
+crystal palace,man city,1,3
+liverpool,chelsea,2,0
+watford,arsenal,0,1
+brighton,cardiff,0,2
+man city,tottenham,1,0
+wolverhampton,brighton,0,0
+huddersfield,watford,1,2
+bournemouth,fulham,0,1
+west ham,leicester,2,2
+newcastle,southampton,3,1
+everton,man united,4,0
+cardiff,liverpool,0,2
+arsenal,crystal palace,2,3
+chelsea,burnley,2,2
+tottenham,brighton,1,0
+watford,southampton,1,1
+wolverhampton,arsenal,3,1
+man united,man city,0,2
+liverpool,huddersfield,5,0
+tottenham,west ham,0,1
+fulham,cardiff,1,0
+southampton,bournemouth,3,3
+watford,wolverhampton,1,2
+crystal palace,everton,0,0
+brighton,newcastle,1,1
+leicester,arsenal,3,0
+burnley,man city,0,1
+man united,chelsea,1,1
+everton,burnley,2,0
+bournemouth,tottenham,1,0
+wolverhampton,fulham,1,0
+west ham,southampton,3,0
+cardiff,crystal palace,2,3
+newcastle,liverpool,2,3
+huddersfield,man united,1,1
+chelsea,watford,3,0
+arsenal,brighton,1,1
+man city,leicester,1,0
+liverpool,wolverhampton,2,0
+fulham,newcastle,0,4
+man united,cardiff,0,2
+southampton,huddersfield,1,1
+watford,west ham,1,4
+leicester,chelsea,0,0
+crystal palace,bournemouth,5,3
+burnley,arsenal,1,3
+brighton,man city,1,4
+tottenham,everton,2,2
+chievo,juventus,2,3
+lazio,napoli,1,2
+torino,roma,0,1
+bologna,spal,0,1
+empoli,cagliari,2,0
+parma,udinese,2,2
+sassuolo,internazionale,1,0
+atalanta,frosinone,4,0
+sampdoria,fiorentina,1,1
+milan,genoa,2,1
+juventus,lazio,2,0
+napoli,milan,3,2
+spal,parma,1,0
+cagliari,sassuolo,2,2
+fiorentina,chievo,6,1
+frosinone,bologna,0,0
+genoa,empoli,2,1
+internazionale,torino,2,2
+udinese,sampdoria,1,0
+roma,atalanta,3,3
+milan,roma,2,1
+bologna,internazionale,0,3
+parma,juventus,1,2
+fiorentina,udinese,1,0
+atalanta,cagliari,0,1
+chievo,empoli,0,0
+lazio,frosinone,1,0
+sampdoria,napoli,3,0
+sassuolo,genoa,5,3
+torino,spal,1,0
+internazionale,parma,0,1
+napoli,fiorentina,1,0
+frosinone,sampdoria,0,5
+roma,chievo,2,2
+genoa,bologna,1,0
+juventus,sassuolo,2,1
+udinese,torino,1,1
+empoli,lazio,0,1
+cagliari,milan,1,1
+spal,atalanta,2,0
+sassuolo,empoli,3,1
+parma,cagliari,2,0
+fiorentina,spal,3,0
+sampdoria,internazionale,0,1
+torino,napoli,1,3
+bologna,roma,2,0
+chievo,udinese,0,2
+lazio,genoa,4,1
+milan,atalanta,2,2
+frosinone,juventus,0,2
+internazionale,fiorentina,2,1
+udinese,lazio,1,2
+atalanta,torino,0,0
+cagliari,sampdoria,0,0
+genoa,chievo,2,0
+juventus,bologna,2,0
+napoli,parma,3,0
+roma,frosinone,4,0
+spal,sassuolo,0,2
+empoli,milan,1,1
+roma,lazio,3,1
+juventus,napoli,3,1
+internazionale,cagliari,2,0
+bologna,udinese,2,1
+chievo,torino,0,1
+fiorentina,atalanta,2,0
+frosinone,genoa,1,2
+parma,empoli,1,0
+sassuolo,milan,1,4
+sampdoria,spal,2,1
+torino,frosinone,3,2
+cagliari,bologna,2,0
+udinese,juventus,0,2
+empoli,roma,0,2
+genoa,parma,1,3
+atalanta,sampdoria,0,1
+lazio,fiorentina,1,0
+milan,chievo,3,1
+napoli,sassuolo,2,0
+spal,internazionale,1,2
+roma,spal,0,2
+juventus,genoa,1,1
+udinese,napoli,0,3
+frosinone,empoli,3,3
+bologna,torino,2,2
+chievo,atalanta,1,5
+parma,lazio,0,2
+fiorentina,cagliari,1,1
+internazionale,milan,1,0
+sampdoria,sassuolo,0,0
+atalanta,parma,3,0
+empoli,juventus,1,2
+torino,fiorentina,1,1
+sassuolo,bologna,2,2
+cagliari,chievo,2,1
+genoa,udinese,2,2
+spal,frosinone,0,3
+milan,sampdoria,3,2
+napoli,roma,1,1
+lazio,internazionale,0,3
+napoli,empoli,5,1
+internazionale,genoa,5,0
+fiorentina,roma,1,1
+juventus,cagliari,3,1
+lazio,spal,4,1
+chievo,sassuolo,0,2
+parma,frosinone,0,0
+sampdoria,torino,1,4
+bologna,atalanta,1,2
+udinese,milan,0,1
+frosinone,fiorentina,1,1
+torino,parma,1,2
+spal,cagliari,2,2
+genoa,napoli,1,2
+atalanta,internazionale,4,1
+chievo,bologna,2,2
+empoli,udinese,2,1
+roma,sampdoria,4,1
+sassuolo,lazio,1,1
+milan,juventus,0,2
+udinese,roma,1,0
+juventus,spal,2,0
+internazionale,frosinone,3,0
+parma,sassuolo,2,1
+bologna,fiorentina,0,0
+empoli,atalanta,3,2
+napoli,chievo,0,0
+lazio,milan,1,1
+genoa,sampdoria,1,1
+cagliari,torino,0,0
+spal,empoli,2,2
+fiorentina,juventus,0,3
+sampdoria,bologna,4,1
+milan,parma,2,1
+frosinone,cagliari,1,1
+sassuolo,udinese,0,0
+torino,genoa,2,1
+chievo,lazio,1,1
+roma,internazionale,2,2
+atalanta,napoli,1,2
+juventus,internazionale,1,0
+napoli,frosinone,4,0
+cagliari,roma,2,2
+lazio,sampdoria,2,2
+sassuolo,fiorentina,3,3
+empoli,bologna,2,1
+parma,chievo,1,1
+udinese,atalanta,1,3
+genoa,spal,1,1
+milan,torino,0,0
+internazionale,udinese,1,0
+torino,juventus,0,1
+spal,chievo,0,0
+fiorentina,empoli,3,1
+frosinone,sassuolo,0,2
+sampdoria,parma,2,0
+cagliari,napoli,0,1
+roma,genoa,3,2
+atalanta,lazio,1,0
+bologna,milan,0,0
+lazio,cagliari,3,1
+empoli,sampdoria,2,4
+genoa,atalanta,3,1
+milan,fiorentina,0,1
+napoli,spal,1,0
+sassuolo,torino,1,1
+udinese,frosinone,1,1
+chievo,internazionale,1,1
+parma,bologna,0,0
+juventus,roma,1,0
+frosinone,milan,0,0
+atalanta,juventus,2,2
+bologna,lazio,0,2
+cagliari,genoa,1,0
+fiorentina,parma,0,1
+sampdoria,chievo,2,0
+roma,sassuolo,3,1
+spal,udinese,0,0
+torino,empoli,3,0
+internazionale,napoli,1,0
+juventus,sampdoria,2,1
+chievo,frosinone,1,0
+empoli,internazionale,0,1
+genoa,fiorentina,0,0
+lazio,torino,1,1
+parma,roma,0,2
+sassuolo,atalanta,2,6
+udinese,cagliari,2,0
+napoli,bologna,3,2
+milan,spal,2,1
+roma,torino,3,2
+udinese,parma,1,2
+internazionale,sassuolo,0,0
+frosinone,atalanta,0,5
+fiorentina,sampdoria,3,3
+spal,bologna,1,1
+cagliari,empoli,2,2
+napoli,lazio,2,1
+genoa,milan,0,2
+juventus,chievo,3,0
+sassuolo,cagliari,3,0
+sampdoria,udinese,4,0
+milan,napoli,0,0
+chievo,fiorentina,3,4
+atalanta,roma,3,3
+bologna,frosinone,0,4
+parma,spal,2,3
+torino,internazionale,1,0
+lazio,juventus,1,2
+empoli,genoa,1,3
+empoli,chievo,2,2
+napoli,sampdoria,3,0
+juventus,parma,3,3
+spal,torino,0,0
+genoa,sassuolo,1,1
+udinese,fiorentina,1,1
+internazionale,bologna,0,1
+roma,milan,1,1
+frosinone,lazio,0,1
+cagliari,atalanta,0,1
+lazio,empoli,1,0
+chievo,roma,0,3
+fiorentina,napoli,0,0
+parma,internazionale,0,1
+bologna,genoa,1,1
+atalanta,spal,2,1
+sampdoria,frosinone,0,1
+torino,udinese,1,0
+sassuolo,juventus,0,3
+milan,cagliari,3,0
+juventus,frosinone,3,0
+cagliari,parma,2,1
+atalanta,milan,1,3
+spal,fiorentina,1,4
+empoli,sassuolo,3,0
+genoa,lazio,2,1
+udinese,chievo,1,0
+internazionale,sampdoria,2,1
+napoli,torino,0,0
+roma,bologna,2,1
+milan,empoli,3,0
+torino,atalanta,2,0
+frosinone,roma,2,3
+sampdoria,cagliari,1,0
+bologna,juventus,0,1
+chievo,genoa,0,0
+sassuolo,spal,1,1
+parma,napoli,0,4
+fiorentina,internazionale,3,3
+lazio,udinese,2,0
+cagliari,internazionale,2,1
+empoli,parma,3,3
+milan,sassuolo,1,0
+lazio,roma,3,0
+torino,chievo,3,0
+genoa,frosinone,0,0
+spal,sampdoria,1,2
+udinese,bologna,2,1
+atalanta,fiorentina,3,1
+napoli,juventus,1,2
+juventus,udinese,4,1
+parma,genoa,1,0
+chievo,milan,1,2
+bologna,cagliari,2,0
+frosinone,torino,1,2
+internazionale,spal,2,0
+sampdoria,atalanta,1,2
+sassuolo,napoli,1,1
+fiorentina,lazio,1,1
+roma,empoli,2,1
+cagliari,fiorentina,2,1
+sassuolo,sampdoria,3,5
+spal,roma,2,1
+torino,bologna,2,3
+genoa,juventus,2,0
+atalanta,chievo,1,1
+empoli,frosinone,2,1
+lazio,parma,4,1
+napoli,udinese,4,2
+milan,internazionale,2,3
+chievo,cagliari,0,3
+udinese,genoa,2,0
+juventus,empoli,1,0
+sampdoria,milan,1,0
+parma,atalanta,1,3
+fiorentina,torino,1,1
+frosinone,spal,0,1
+roma,napoli,1,4
+bologna,sassuolo,2,1
+internazionale,lazio,0,1
+milan,udinese,1,1
+cagliari,juventus,0,2
+empoli,napoli,2,1
+frosinone,parma,3,2
+genoa,internazionale,0,4
+roma,fiorentina,2,2
+spal,lazio,1,0
+torino,sampdoria,2,1
+sassuolo,chievo,4,0
+atalanta,bologna,4,1
+parma,torino,0,0
+juventus,milan,2,1
+sampdoria,roma,0,1
+fiorentina,frosinone,0,1
+cagliari,spal,2,1
+udinese,empoli,3,2
+internazionale,atalanta,0,0
+lazio,sassuolo,2,2
+napoli,genoa,1,1
+bologna,chievo,3,0
+spal,juventus,2,1
+roma,udinese,1,0
+milan,lazio,1,0
+torino,cagliari,1,1
+fiorentina,bologna,0,0
+sampdoria,genoa,2,0
+sassuolo,parma,0,0
+chievo,napoli,1,3
+frosinone,internazionale,1,3
+atalanta,empoli,0,0
+parma,milan,1,1
+bologna,sampdoria,3,0
+cagliari,frosinone,1,0
+empoli,spal,2,4
+genoa,torino,0,1
+lazio,chievo,1,2
+udinese,sassuolo,1,1
+juventus,fiorentina,2,1
+internazionale,roma,1,1
+napoli,atalanta,1,2
+bologna,empoli,3,1
+roma,cagliari,3,0
+internazionale,juventus,1,1
+frosinone,napoli,0,2
+chievo,parma,1,1
+spal,genoa,1,1
+sampdoria,lazio,1,2
+torino,milan,2,0
+atalanta,udinese,2,0
+fiorentina,sassuolo,0,1
+juventus,torino,1,1
+chievo,spal,0,4
+udinese,internazionale,0,0
+empoli,fiorentina,1,0
+lazio,atalanta,1,3
+parma,sampdoria,3,3
+sassuolo,frosinone,2,2
+genoa,roma,1,1
+napoli,cagliari,2,1
+milan,bologna,2,1
+atalanta,genoa,2,1
+cagliari,lazio,1,2
+fiorentina,milan,0,1
+torino,sassuolo,3,2
+frosinone,udinese,1,3
+sampdoria,empoli,1,2
+spal,napoli,1,2
+roma,juventus,2,0
+bologna,parma,4,1
+internazionale,chievo,2,0
+udinese,spal,3,2
+genoa,cagliari,1,1
+sassuolo,roma,0,0
+chievo,sampdoria,0,0
+empoli,torino,4,1
+parma,fiorentina,1,0
+milan,frosinone,2,0
+juventus,atalanta,1,1
+napoli,internazionale,4,1
+lazio,bologna,3,3
+frosinone,chievo,0,0
+bologna,napoli,3,2
+torino,lazio,3,1
+sampdoria,juventus,2,0
+atalanta,sassuolo,3,1
+cagliari,udinese,1,2
+fiorentina,genoa,0,0
+internazionale,empoli,2,1
+roma,parma,2,1
+spal,milan,2,3
+pec zwolle,heerenveen,2,3
+psv,utrecht,4,0
+excelsior,fortuna sittard,1,1
+willem ii,vvv venlo,0,1
+ajax,heracles almelo,1,1
+az,nac breda,5,0
+vitesse,groningen,5,1
+de graafschap,feyenoord,2,0
+ado den haag,emmen,1,2
+groningen,willem ii,0,1
+heracles almelo,ado den haag,4,2
+fortuna sittard,psv,1,2
+vvv venlo,ajax,0,1
+nac breda,de graafschap,3,0
+heerenveen,vitesse,1,1
+feyenoord,excelsior,3,0
+emmen,az,1,4
+utrecht,pec zwolle,2,0
+ado den haag,fortuna sittard,3,1
+pec zwolle,psv,1,2
+nac breda,excelsior,0,2
+de graafschap,groningen,0,1
+ajax,emmen,5,0
+az,vitesse,0,0
+heerenveen,feyenoord,3,5
+utrecht,vvv venlo,1,1
+willem ii,heracles almelo,5,0
+emmen,de graafschap,1,1
+fortuna sittard,utrecht,1,1
+psv,willem ii,6,1
+excelsior,ado den haag,2,4
+vvv venlo,heerenveen,1,1
+feyenoord,nac breda,4,2
+vitesse,ajax,0,4
+heracles almelo,az,3,2
+groningen,pec zwolle,0,1
+willem ii,excelsior,2,2
+ajax,groningen,3,0
+de graafschap,vvv venlo,1,2
+ado den haag,psv,0,7
+pec zwolle,vitesse,0,2
+nac breda,fortuna sittard,2,3
+heerenveen,heracles almelo,3,5
+utrecht,emmen,1,2
+az,feyenoord,1,1
+heracles almelo,de graafschap,4,0
+vitesse,ado den haag,1,1
+vvv venlo,nac breda,3,0
+excelsior,heerenveen,3,3
+fortuna sittard,willem ii,4,4
+psv,ajax,3,0
+groningen,az,1,3
+emmen,pec zwolle,0,1
+feyenoord,utrecht,1,0
+fortuna sittard,ajax,0,2
+excelsior,vvv venlo,1,0
+nac breda,psv,0,2
+heerenveen,ado den haag,1,1
+feyenoord,vitesse,2,1
+groningen,utrecht,1,1
+de graafschap,willem ii,2,1
+az,pec zwolle,2,2
+heracles almelo,emmen,2,1
+fc utrecht,nac breda,2,1
+de graafschap,heerenveen,0,5
+psv,vvv venlo,4,0
+pec zwolle,excelsior,2,0
+ado den haag,groningen,1,0
+ajax,az,5,0
+willem ii,feyenoord,1,1
+vitesse,heracles almelo,4,0
+emmen,fortuna sittard,3,3
+heerenveen,ajax,0,4
+utrecht,az,2,1
+psv,emmen,6,0
+excelsior,vitesse,2,0
+fortuna sittard,de graafschap,3,1
+vvv venlo,ado den haag,2,0
+heracles almelo,groningen,4,1
+feyenoord,pec zwolle,3,0
+nac breda,willem ii,2,2
+emmen,vvv venlo,1,1
+pec zwolle,heracles almelo,1,1
+groningen,psv,1,2
+de graafschap,excelsior,4,1
+ado den haag,nac breda,1,1
+az,heerenveen,2,3
+willem ii,utrecht,0,1
+ajax,feyenoord,3,0
+vitesse,fortuna sittard,2,1
+excelsior,groningen,2,4
+ajax,willem ii,2,0
+az,de graafschap,1,0
+psv,vitesse,1,0
+nac breda,heracles almelo,2,1
+fortuna sittard,pec zwolle,3,0
+utrecht,ado den haag,3,0
+heerenveen,emmen,1,1
+pec zwolle,willem ii,2,3
+vvv venlo,fortuna sittard,3,2
+vitesse,utrecht,2,1
+de graafschap,psv,1,4
+emmen,nac breda,2,0
+heracles almelo,feyenoord,0,2
+excelsior,ajax,1,7
+ado den haag,az,0,1
+psv,heerenveen,3,0
+fortuna sittard,heracles almelo,3,0
+pec zwolle,ado den haag,2,3
+nac breda,ajax,0,3
+vvv venlo,az,2,2
+willem ii,vitesse,1,3
+feyenoord,groningen,1,0
+utrecht,de graafschap,5,0
+emmen,excelsior,1,2
+excelsior,utrecht,3,3
+heerenveen,fortuna sittard,3,1
+de graafschap,pec zwolle,0,2
+az,willem ii,0,2
+vitesse,emmen,1,1
+groningen,nac breda,5,2
+heracles almelo,vvv venlo,4,1
+feyenoord,psv,2,1
+ajax,ado den haag,5,1
+feyenoord,vvv venlo,4,1
+psv,excelsior,6,0
+fortuna sittard,az,0,3
+ado den haag,de graafschap,0,0
+pec zwolle,ajax,1,4
+willem ii,heerenveen,1,5
+nac breda,vitesse,2,1
+vvv venlo,groningen,0,0
+emmen,feyenoord,1,4
+utrecht,heracles almelo,3,1
+willem ii,ado den haag,0,3
+vitesse,vvv venlo,2,1
+heracles almelo,psv,0,4
+az,excelsior,2,1
+pec zwolle,nac breda,0,0
+feyenoord,fortuna sittard,0,2
+groningen,emmen,1,2
+ajax,de graafschap,8,0
+heerenveen,utrecht,2,3
+vvv venlo,pec zwolle,2,0
+excelsior,heracles almelo,0,3
+psv,az,3,1
+nac breda,heerenveen,4,2
+fortuna sittard,groningen,0,0
+emmen,willem ii,0,2
+de graafschap,vitesse,2,2
+ado den haag,feyenoord,2,2
+utrecht,ajax,1,3
+vitesse,excelsior,3,2
+groningen,heracles almelo,3,0
+pec zwolle,feyenoord,3,1
+ado den haag,vvv venlo,2,4
+az,utrecht,3,0
+ajax,heerenveen,4,4
+emmen,psv,2,2
+de graafschap,fortuna sittard,5,1
+willem ii,nac breda,2,0
+nac breda,ado den haag,1,1
+vvv venlo,emmen,2,3
+psv,groningen,2,1
+excelsior,de graafschap,2,0
+heracles almelo,pec zwolle,0,2
+heerenveen,az,0,2
+feyenoord,ajax,6,2
+utrecht,willem ii,0,1
+fortuna sittard,vitesse,2,1
+de graafschap,nac breda,3,0
+az,emmen,5,0
+willem ii,groningen,1,2
+ajax,vvv venlo,6,0
+vitesse,heerenveen,2,2
+ado den haag,heracles almelo,2,0
+psv,fortuna sittard,5,0
+pec zwolle,utrecht,4,3
+excelsior,feyenoord,2,1
+nac breda,az,0,3
+vvv venlo,willem ii,2,1
+feyenoord,de graafschap,4,0
+heracles almelo,ajax,1,0
+heerenveen,pec zwolle,1,1
+utrecht,psv,2,2
+groningen,vitesse,2,1
+emmen,ado den haag,3,2
+fortuna sittard,excelsior,4,1
+ado den haag,pec zwolle,1,0
+vitesse,willem ii,3,2
+heracles almelo,fortuna sittard,6,0
+heerenveen,psv,2,2
+az,vvv venlo,3,0
+de graafschap,utrecht,0,1
+groningen,feyenoord,1,0
+excelsior,emmen,2,1
+ajax,nac breda,5,0
+vvv venlo,heracles almelo,0,1
+nac breda,groningen,0,0
+pec zwolle,de graafschap,0,3
+fortuna sittard,heerenveen,2,4
+utrecht,excelsior,0,0
+willem ii,az,2,1
+psv,feyenoord,1,1
+emmen,vitesse,0,3
+ado den haag,ajax,1,5
+de graafschap,ado den haag,1,1
+vitesse,nac breda,4,1
+excelsior,psv,0,2
+heracles almelo,utrecht,1,5
+feyenoord,emmen,4,0
+az,fortuna sittard,4,2
+heerenveen,willem ii,4,2
+groningen,vvv venlo,3,2
+utrecht,groningen,0,0
+willem ii,de graafschap,3,2
+psv,nac breda,2,0
+ado den haag,heerenveen,2,3
+vvv venlo,excelsior,1,0
+ajax,fortuna sittard,4,0
+vitesse,feyenoord,1,1
+emmen,heracles almelo,1,1
+pec zwolle,az,0,0
+ajax,pec zwolle,2,1
+fortuna sittard,emmen,3,1
+heracles almelo,vitesse,3,2
+nac breda,utrecht,0,4
+feyenoord,willem ii,2,3
+heerenveen,de graafschap,0,3
+excelsior,pec zwolle,0,2
+groningen,ado den haag,1,0
+az,ajax,1,0
+vvv venlo,psv,0,1
+heerenveen,excelsior,1,0
+az,groningen,1,0
+de graafschap,heracles almelo,1,2
+willem ii,fortuna sittard,3,2
+ado den haag,vitesse,3,3
+ajax,psv,3,1
+pec zwolle,emmen,3,0
+utrecht,feyenoord,3,2
+nac breda,vvv venlo,1,1
+groningen,de graafschap,1,0
+heracles almelo,willem ii,3,4
+vitesse,az,2,2
+emmen,ajax,2,5
+fortuna sittard,ado den haag,0,0
+excelsior,nac breda,1,2
+vvv venlo,utrecht,2,6
+feyenoord,heerenveen,3,0
+psv,pec zwolle,4,0
+heracles almelo,nac breda,1,0
+de graafschap,az,1,1
+groningen,excelsior,1,0
+willem ii,ajax,1,4
+ado den haag,utrecht,5,0
+vitesse,psv,3,3
+vvv venlo,feyenoord,0,3
+pec zwolle,fortuna sittard,5,0
+emmen,heerenveen,2,0
+nac breda,emmen,1,1
+fortuna sittard,vvv venlo,1,1
+feyenoord,heracles almelo,2,1
+ajax,excelsior,6,2
+az,ado den haag,2,3
+utrecht,vitesse,0,0
+willem ii,pec zwolle,2,0
+heerenveen,groningen,1,1
+psv,de graafschap,2,1
+heracles almelo,heerenveen,2,1
+vvv venlo,de graafschap,4,1
+feyenoord,az,2,1
+vitesse,pec zwolle,4,1
+groningen,ajax,0,1
+emmen,utrecht,2,0
+psv,ado den haag,3,1
+fortuna sittard,nac breda,2,1
+excelsior,willem ii,1,1
+ajax,vitesse,4,2
+heerenveen,vvv venlo,2,2
+az,heracles almelo,2,1
+de graafschap,emmen,1,0
+nac breda,feyenoord,0,4
+utrecht,fortuna sittard,2,1
+willem ii,psv,0,3
+ado den haag,excelsior,3,1
+pec zwolle,groningen,3,2
+willem ii,emmen,2,3
+vitesse,de graafschap,6,1
+pec zwolle,vvv venlo,2,4
+heracles almelo,excelsior,4,5
+heerenveen,nac breda,2,1
+groningen,fortuna sittard,3,0
+feyenoord,ado den haag,0,2
+ajax,utrecht,4,1
+az,psv,1,0
+vvv venlo,vitesse,1,3
+psv,heracles almelo,3,1
+nac breda,pec zwolle,0,0
+fortuna sittard,feyenoord,1,4
+utrecht,heerenveen,3,1
+excelsior,az,4,2
+emmen,groningen,1,0
+de graafschap,ajax,1,4
+ado den haag,willem ii,6,2
+groningen,heerenveen,2,0
+girona,real valladolid,0,0
+real betis,levante,0,3
+celta vigo,espanyol,1,1
+villarreal,real sociedad,1,2
+barcelona,deportivo alaves,3,0
+eibar,huesca,1,2
+rayo vallecano,sevilla,1,4
+real madrid,getafe,2,0
+valencia,atletico,1,1
+athletic bilbao,leganes,2,1
+getafe,eibar,2,0
+leganes,real sociedad,2,2
+deportivo alaves,real betis,0,0
+atletico,rayo vallecano,1,0
+real valladolid,barcelona,0,1
+espanyol,valencia,2,0
+girona,real madrid,1,4
+sevilla,villarreal,0,0
+levante,celta vigo,1,2
+athletic bilbao,huesca,2,2
+getafe,real valladolid,0,0
+eibar,real sociedad,2,1
+villarreal,girona,0,1
+celta vigo,atletico,2,0
+real madrid,leganes,4,1
+levante,valencia,2,2
+deportivo alaves,espanyol,2,1
+barcelona,huesca,8,2
+real betis,sevilla,1,0
+rayo vallecano,athletic bilbao,1,1
+huesca,rayo vallecano,0,1
+atletico,eibar,1,1
+real sociedad,barcelona,1,2
+valencia,real betis,0,0
+athletic bilbao,real madrid,1,1
+leganes,villarreal,0,1
+espanyol,levante,1,0
+real valladolid,deportivo alaves,0,1
+sevilla,getafe,0,2
+girona,celta vigo,3,2
+huesca,real sociedad,0,1
+rayo vallecano,deportivo alaves,1,5
+celta vigo,real valladolid,3,3
+eibar,leganes,1,0
+getafe,atletico,0,2
+real madrid,espanyol,1,0
+levante,sevilla,2,6
+villarreal,valencia,0,0
+real betis,athletic bilbao,2,2
+barcelona,girona,2,2
+espanyol,eibar,1,0
+real sociedad,rayo vallecano,2,2
+atletico,huesca,3,0
+athletic bilbao,villarreal,0,3
+leganes,barcelona,2,1
+valencia,celta vigo,1,1
+sevilla,real madrid,3,0
+deportivo alaves,getafe,1,1
+real valladolid,levante,2,1
+girona,real betis,0,1
+rayo vallecano,espanyol,2,2
+real sociedad,valencia,0,1
+barcelona,athletic bilbao,1,1
+eibar,sevilla,1,3
+real madrid,atletico,0,0
+huesca,girona,1,1
+villarreal,real valladolid,0,1
+levante,deportivo alaves,2,1
+real betis,leganes,1,0
+celta vigo,getafe,1,1
+athletic bilbao,real sociedad,1,3
+girona,eibar,2,3
+getafe,levante,0,1
+deportivo alaves,real madrid,1,0
+leganes,rayo vallecano,1,0
+real valladolid,huesca,1,0
+atletico,real betis,1,0
+espanyol,villarreal,3,1
+sevilla,celta vigo,2,1
+valencia,barcelona,1,1
+celta vigo,deportivo alaves,0,1
+real madrid,levante,1,2
+valencia,leganes,1,1
+villarreal,atletico,1,1
+barcelona,sevilla,4,2
+rayo vallecano,getafe,1,2
+eibar,athletic bilbao,1,1
+huesca,espanyol,0,2
+real betis,real valladolid,0,1
+real sociedad,girona,0,0
+real valladolid,espanyol,1,1
+girona,rayo vallecano,2,1
+athletic bilbao,valencia,0,0
+celta vigo,eibar,4,0
+levante,leganes,2,0
+atletico,real sociedad,2,0
+getafe,real betis,2,0
+barcelona,real madrid,5,1
+deportivo alaves,villarreal,2,1
+sevilla,huesca,2,1
+leganes,atletico,1,1
+real madrid,real valladolid,2,0
+valencia,girona,0,1
+rayo vallecano,barcelona,2,3
+eibar,deportivo alaves,2,1
+villarreal,levante,1,1
+real sociedad,sevilla,0,0
+huesca,getafe,1,1
+real betis,celta vigo,3,3
+espanyol,athletic bilbao,1,0
+levante,real sociedad,1,3
+real valladolid,eibar,0,0
+getafe,valencia,0,1
+atletico,athletic bilbao,3,2
+girona,leganes,0,0
+deportivo alaves,huesca,2,1
+barcelona,real betis,3,4
+rayo vallecano,villarreal,2,2
+sevilla,espanyol,2,1
+celta vigo,real madrid,2,4
+leganes,deportivo alaves,1,0
+eibar,real madrid,3,0
+valencia,rayo vallecano,3,0
+huesca,levante,2,2
+atletico,barcelona,1,1
+athletic bilbao,getafe,1,1
+sevilla,real valladolid,1,0
+espanyol,girona,1,3
+villarreal,real betis,2,1
+real sociedad,celta vigo,2,1
+rayo vallecano,eibar,1,0
+celta vigo,huesca,2,0
+real valladolid,leganes,2,4
+getafe,espanyol,3,0
+real madrid,valencia,2,0
+real betis,real sociedad,1,0
+girona,atletico,1,1
+barcelona,villarreal,2,0
+deportivo alaves,sevilla,1,1
+levante,athletic bilbao,3,0
+leganes,getafe,1,1
+atletico,deportivo alaves,3,0
+valencia,sevilla,1,1
+villarreal,celta vigo,2,3
+espanyol,barcelona,0,4
+eibar,levante,4,4
+huesca,real madrid,0,1
+real sociedad,real valladolid,1,2
+real betis,rayo vallecano,2,0
+athletic bilbao,girona,1,0
+celta vigo,leganes,0,0
+getafe,real sociedad,1,0
+real valladolid,atletico,2,3
+real madrid,rayo vallecano,1,0
+eibar,valencia,1,1
+sevilla,girona,2,0
+espanyol,real betis,1,3
+huesca,villarreal,2,2
+levante,barcelona,0,5
+deportivo alaves,athletic bilbao,0,0
+girona,getafe,1,1
+real sociedad,deportivo alaves,0,1
+real betis,eibar,1,1
+atletico,espanyol,1,0
+barcelona,celta vigo,2,0
+athletic bilbao,real valladolid,1,1
+valencia,huesca,2,1
+leganes,sevilla,1,1
+rayo vallecano,levante,2,1
+villarreal,real madrid,2,2
+levante,girona,2,2
+espanyol,leganes,1,0
+real valladolid,rayo vallecano,0,1
+deportivo alaves,valencia,2,1
+huesca,real betis,2,1
+eibar,villarreal,0,0
+sevilla,atletico,1,1
+real madrid,real sociedad,0,2
+getafe,barcelona,1,2
+celta vigo,athletic bilbao,1,2
+rayo vallecano,celta vigo,4,2
+leganes,huesca,1,0
+valencia,real valladolid,1,1
+girona,deportivo alaves,1,1
+villarreal,getafe,1,2
+atletico,levante,1,0
+athletic bilbao,sevilla,2,0
+barcelona,eibar,3,0
+real betis,real madrid,1,2
+real sociedad,espanyol,3,2
+getafe,deportivo alaves,4,0
+real madrid,sevilla,2,0
+huesca,atletico,0,3
+celta vigo,valencia,1,2
+real betis,girona,3,2
+villarreal,athletic bilbao,1,1
+levante,real valladolid,2,0
+rayo vallecano,real sociedad,2,2
+barcelona,leganes,3,1
+eibar,espanyol,3,0
+sevilla,levante,5,0
+atletico,getafe,2,0
+leganes,eibar,2,2
+valencia,villarreal,3,0
+real valladolid,celta vigo,2,1
+girona,barcelona,0,2
+athletic bilbao,real betis,1,0
+real sociedad,huesca,0,0
+espanyol,real madrid,2,4
+deportivo alaves,rayo vallecano,0,1
+huesca,real valladolid,4,0
+levante,getafe,0,0
+real sociedad,athletic bilbao,2,1
+barcelona,valencia,2,2
+celta vigo,sevilla,1,0
+villarreal,espanyol,2,2
+real betis,atletico,1,0
+eibar,girona,3,0
+real madrid,deportivo alaves,3,0
+rayo vallecano,leganes,1,2
+real valladolid,villarreal,0,0
+getafe,celta vigo,3,1
+atletico,real madrid,1,3
+espanyol,rayo vallecano,2,1
+girona,huesca,0,2
+leganes,real betis,3,0
+valencia,real sociedad,0,0
+sevilla,eibar,2,2
+athletic bilbao,barcelona,0,0
+deportivo alaves,levante,2,0
+eibar,getafe,2,2
+celta vigo,levante,1,4
+rayo vallecano,atletico,0,1
+real sociedad,leganes,3,0
+barcelona,real valladolid,1,0
+real madrid,girona,1,2
+valencia,espanyol,0,0
+villarreal,sevilla,3,0
+real betis,deportivo alaves,1,1
+huesca,athletic bilbao,0,1
+espanyol,huesca,1,1
+getafe,rayo vallecano,2,1
+sevilla,barcelona,2,4
+deportivo alaves,celta vigo,0,0
+athletic bilbao,eibar,1,0
+leganes,valencia,1,1
+atletico,villarreal,2,0
+real valladolid,real betis,0,2
+levante,real madrid,1,2
+girona,real sociedad,0,0
+rayo vallecano,girona,0,2
+espanyol,real valladolid,3,1
+villarreal,deportivo alaves,1,2
+huesca,sevilla,2,1
+real madrid,barcelona,0,1
+eibar,celta vigo,1,0
+real betis,getafe,1,2
+real sociedad,atletico,0,2
+valencia,athletic bilbao,2,0
+leganes,levante,1,0
+athletic bilbao,espanyol,1,1
+deportivo alaves,eibar,1,1
+atletico,leganes,1,0
+barcelona,rayo vallecano,3,1
+getafe,huesca,2,1
+celta vigo,real betis,0,1
+girona,valencia,2,3
+levante,villarreal,0,2
+sevilla,real sociedad,5,2
+real valladolid,real madrid,1,4
+real sociedad,levante,1,1
+huesca,deportivo alaves,1,3
+real madrid,celta vigo,2,0
+athletic bilbao,atletico,2,0
+leganes,girona,0,2
+eibar,real valladolid,1,2
+espanyol,sevilla,0,1
+valencia,getafe,0,0
+villarreal,rayo vallecano,3,1
+real betis,barcelona,1,4
+girona,athletic bilbao,1,2
+getafe,leganes,0,2
+barcelona,espanyol,2,0
+celta vigo,villarreal,3,2
+deportivo alaves,atletico,0,4
+levante,eibar,2,2
+rayo vallecano,real betis,1,1
+sevilla,valencia,0,1
+real valladolid,real sociedad,1,1
+real madrid,huesca,3,2
+atletico,girona,2,0
+espanyol,getafe,1,1
+villarreal,barcelona,4,4
+athletic bilbao,levante,3,2
+eibar,rayo vallecano,2,1
+huesca,celta vigo,3,3
+valencia,real madrid,2,1
+sevilla,deportivo alaves,2,0
+leganes,real valladolid,1,0
+real sociedad,real betis,2,1
+girona,espanyol,1,2
+real madrid,eibar,2,1
+rayo vallecano,valencia,2,0
+barcelona,atletico,2,0
+deportivo alaves,leganes,1,1
+getafe,athletic bilbao,1,0
+real valladolid,sevilla,0,2
+celta vigo,real sociedad,3,1
+levante,huesca,2,2
+real betis,villarreal,2,1
+espanyol,deportivo alaves,2,1
+huesca,barcelona,0,0
+atletico,celta vigo,2,0
+sevilla,real betis,3,2
+real valladolid,getafe,2,2
+athletic bilbao,rayo vallecano,3,2
+real sociedad,eibar,1,1
+girona,villarreal,0,1
+valencia,levante,3,1
+leganes,real madrid,1,1
+deportivo alaves,real valladolid,2,2
+celta vigo,girona,2,1
+eibar,atletico,0,1
+rayo vallecano,huesca,0,0
+barcelona,real sociedad,2,1
+levante,espanyol,2,2
+getafe,sevilla,3,0
+real madrid,athletic bilbao,3,0
+villarreal,leganes,2,1
+real betis,valencia,1,2
+huesca,eibar,2,0
+real valladolid,girona,1,0
+deportivo alaves,barcelona,0,2
+atletico,valencia,3,2
+leganes,athletic bilbao,0,1
+espanyol,celta vigo,1,1
+levante,real betis,4,0
+sevilla,rayo vallecano,5,0
+real sociedad,villarreal,0,1
+getafe,real madrid,0,0
+athletic bilbao,deportivo alaves,1,1
+atletico,real valladolid,1,0
+leganes,celta vigo,0,0
+barcelona,levante,1,0
+valencia,eibar,0,1
+girona,sevilla,1,0
+real sociedad,getafe,2,1
+villarreal,huesca,1,1
+rayo vallecano,real madrid,1,0
+real betis,espanyol,1,1
+sevilla,leganes,0,3
+levante,rayo vallecano,4,1
+espanyol,atletico,3,0
+deportivo alaves,real sociedad,0,1
+celta vigo,barcelona,2,0
+getafe,girona,2,0
+eibar,real betis,1,0
+real madrid,villarreal,3,2
+real valladolid,athletic bilbao,1,0
+huesca,valencia,2,6
+athletic bilbao,celta vigo,3,1
+atletico,sevilla,1,1
+barcelona,getafe,2,0
+real betis,huesca,2,1
+girona,levante,1,2
+rayo vallecano,real valladolid,1,2
+valencia,deportivo alaves,3,1
+villarreal,eibar,1,0
+leganes,espanyol,0,2
+real sociedad,real madrid,3,1
+levante,atletico,2,2
+espanyol,real sociedad,2,0
+getafe,villarreal,2,2
+sevilla,athletic bilbao,2,0
+real valladolid,valencia,0,2
+deportivo alaves,girona,2,1
+celta vigo,rayo vallecano,2,2
+huesca,leganes,2,1
+real madrid,real betis,0,2
+eibar,barcelona,2,2
+benfica,v guimaraes,3,2
+v setubal,desportivo aves,2,0
+tondela,belenenses,0,1
+porto,chaves,5,0
+maritimo,santa clara,1,0
+feirense,rio ave,2,0
+moreirense,sporting cp,1,3
+braga,nacional,4,2
+portimonense,boavista,0,2
+desportivo aves,tondela,2,2
+chaves,portimonense,2,0
+boavista,benfica,0,2
+sporting cp,v setubal,2,1
+rio ave,maritimo,3,1
+nacional,moreirense,1,2
+belenenses,porto,2,3
+santa clara,braga,3,3
+v guimaraes,feirense,0,1
+maritimo,chaves,2,1
+portimonense,santa clara,2,2
+benfica,sporting cp,1,1
+porto,v guimaraes,2,3
+v setubal,nacional,1,2
+feirense,boavista,1,1
+tondela,rio ave,1,1
+braga,desportivo aves,3,1
+moreirense,belenenses,1,1
+chaves,braga,0,1
+v guimaraes,tondela,1,0
+belenenses,v setubal,0,0
+santa clara,boavista,4,2
+sporting cp,feirense,1,0
+rio ave,portimonense,2,1
+desportivo aves,maritimo,0,1
+nacional,benfica,0,4
+porto,moreirense,3,0
+boavista,chaves,1,2
+santa clara,rio ave,1,3
+maritimo,belenenses,0,0
+v setubal,porto,0,2
+tondela,moreirense,2,0
+feirense,nacional,0,0
+benfica,desportivo aves,2,0
+portimonense,v guimaraes,3,2
+braga,sporting cp,1,0
+chaves,benfica,2,2
+porto,tondela,1,0
+moreirense,feirense,1,0
+rio ave,boavista,2,1
+sporting cp,maritimo,2,0
+nacional,santa clara,0,3
+v guimaraes,v setubal,1,1
+belenenses,braga,0,3
+desportivo aves,portimonense,3,0
+tondela,nacional,1,1
+santa clara,chaves,1,0
+feirense,belenenses,0,0
+v setubal,moreirense,3,0
+maritimo,v guimaraes,1,3
+braga,rio ave,1,1
+boavista,desportivo aves,1,0
+benfica,porto,1,0
+portimonense,sporting cp,4,2
+nacional,portimonense,0,1
+v guimaraes,braga,1,1
+desportivo aves,santa clara,1,2
+rio ave,chaves,1,0
+belenenses,benfica,2,0
+moreirense,maritimo,1,0
+tondela,v setubal,1,2
+porto,feirense,2,0
+sporting cp,boavista,3,0
+benfica,moreirense,1,3
+portimonense,belenenses,1,1
+maritimo,porto,0,2
+boavista,v guimaraes,0,0
+feirense,tondela,2,4
+santa clara,sporting cp,1,2
+braga,v setubal,2,1
+rio ave,nacional,3,3
+chaves,desportivo aves,1,2
+moreirense,portimonense,2,0
+v setubal,feirense,2,1
+belenenses,boavista,0,0
+desportivo aves,rio ave,2,1
+nacional,maritimo,1,0
+porto,braga,1,0
+v guimaraes,santa clara,2,0
+tondela,benfica,1,3
+sporting cp,chaves,2,1
+santa clara,belenenses,2,3
+maritimo,v setubal,0,1
+benfica,feirense,4,0
+braga,moreirense,2,0
+portimonense,tondela,3,2
+desportivo aves,nacional,2,3
+chaves,v guimaraes,0,1
+boavista,porto,0,1
+rio ave,sporting cp,1,3
+porto,portimonense,4,1
+belenenses,chaves,1,0
+tondela,braga,0,1
+v setubal,benfica,0,1
+nacional,boavista,0,0
+moreirense,santa clara,0,1
+v guimaraes,rio ave,3,2
+sporting cp,desportivo aves,4,1
+feirense,maritimo,1,1
+portimonense,v setubal,3,1
+braga,feirense,4,0
+chaves,moreirense,1,2
+boavista,tondela,2,0
+desportivo aves,v guimaraes,1,1
+santa clara,porto,1,2
+rio ave,belenenses,2,2
+maritimo,benfica,0,1
+sporting cp,nacional,5,2
+v setubal,santa clara,0,2
+tondela,maritimo,2,1
+feirense,portimonense,0,1
+belenenses,desportivo aves,5,2
+moreirense,boavista,2,1
+nacional,chaves,2,0
+porto,rio ave,2,1
+benfica,braga,6,2
+v guimaraes,sporting cp,1,0
+santa clara,tondela,1,2
+nacional,v guimaraes,1,0
+boavista,v setubal,1,0
+braga,maritimo,2,0
+portimonense,benfica,2,0
+rio ave,moreirense,1,2
+chaves,feirense,0,0
+sporting cp,belenenses,2,1
+desportivo aves,porto,0,1
+maritimo,portimonense,2,1
+v setubal,chaves,0,0
+feirense,santa clara,2,2
+belenenses,v guimaraes,1,0
+benfica,rio ave,4,2
+braga,boavista,1,0
+moreirense,desportivo aves,1,0
+tondela,sporting cp,2,1
+porto,nacional,3,1
+portimonense,braga,1,1
+santa clara,benfica,0,2
+desportivo aves,feirense,1,1
+v guimaraes,moreirense,1,0
+sporting cp,porto,0,0
+boavista,maritimo,0,1
+nacional,belenenses,0,1
+chaves,tondela,2,1
+rio ave,v setubal,1,1
+nacional,braga,0,3
+chaves,porto,1,4
+v guimaraes,benfica,0,1
+belenenses,tondela,2,2
+sporting cp,moreirense,2,1
+santa clara,maritimo,0,1
+desportivo aves,v setubal,2,1
+boavista,portimonense,0,2
+rio ave,feirense,0,0
+maritimo,rio ave,0,2
+moreirense,nacional,2,1
+tondela,desportivo aves,0,2
+feirense,v guimaraes,1,2
+portimonense,chaves,0,1
+benfica,boavista,5,1
+braga,santa clara,1,0
+v setubal,sporting cp,1,1
+porto,belenenses,3,0
+rio ave,tondela,2,2
+chaves,maritimo,1,0
+boavista,feirense,2,0
+desportivo aves,braga,0,2
+nacional,v setubal,0,0
+santa clara,portimonense,2,1
+sporting cp,benfica,2,4
+v guimaraes,porto,0,0
+belenenses,moreirense,0,1
+moreirense,porto,1,1
+maritimo,desportivo aves,0,1
+portimonense,rio ave,0,1
+tondela,v guimaraes,1,0
+braga,chaves,2,1
+boavista,santa clara,1,0
+benfica,nacional,10,0
+feirense,sporting cp,1,3
+v setubal,belenenses,0,0
+rio ave,santa clara,1,2
+nacional,feirense,4,0
+v guimaraes,portimonense,2,0
+porto,v setubal,2,0
+moreirense,tondela,2,0
+belenenses,maritimo,0,1
+chaves,boavista,1,1
+sporting cp,braga,3,0
+desportivo aves,benfica,0,3
+braga,belenenses,0,2
+tondela,porto,0,3
+feirense,moreirense,1,3
+portimonense,desportivo aves,1,1
+v setubal,v guimaraes,1,1
+santa clara,nacional,2,0
+boavista,rio ave,1,0
+maritimo,sporting cp,0,0
+benfica,chaves,4,0
+desportivo aves,boavista,2,0
+nacional,tondela,3,2
+moreirense,v setubal,1,1
+porto,benfica,1,2
+chaves,santa clara,0,0
+belenenses,feirense,4,0
+rio ave,braga,1,2
+sporting cp,portimonense,3,1
+v guimaraes,maritimo,1,0
+chaves,rio ave,1,1
+maritimo,moreirense,3,2
+braga,v guimaraes,1,0
+boavista,sporting cp,1,2
+santa clara,desportivo aves,0,0
+portimonense,nacional,5,1
+v setubal,tondela,0,0
+feirense,porto,1,2
+benfica,belenenses,2,2
+sporting cp,santa clara,1,0
+belenenses,portimonense,2,2
+v setubal,braga,0,1
+v guimaraes,boavista,3,1
+porto,maritimo,3,0
+desportivo aves,chaves,0,1
+nacional,rio ave,0,1
+moreirense,benfica,0,4
+tondela,feirense,1,1
+portimonense,moreirense,0,2
+braga,porto,2,3
+chaves,sporting cp,1,3
+santa clara,v guimaraes,1,0
+benfica,tondela,1,0
+maritimo,nacional,3,2
+rio ave,desportivo aves,0,2
+boavista,belenenses,2,0
+feirense,v setubal,0,1
+porto,boavista,2,0
+belenenses,santa clara,1,1
+nacional,desportivo aves,0,0
+v guimaraes,chaves,4,0
+moreirense,braga,1,0
+v setubal,maritimo,1,0
+feirense,benfica,1,4
+sporting cp,rio ave,3,0
+tondela,portimonense,3,2
+chaves,belenenses,2,2
+santa clara,moreirense,1,1
+portimonense,porto,0,3
+desportivo aves,sporting cp,1,3
+rio ave,v guimaraes,2,1
+maritimo,feirense,2,0
+boavista,nacional,1,0
+braga,tondela,3,0
+benfica,v setubal,4,2
+v setubal,portimonense,1,1
+tondela,boavista,1,0
+nacional,sporting cp,0,1
+v guimaraes,desportivo aves,0,2
+belenenses,rio ave,1,3
+moreirense,chaves,0,1
+feirense,braga,0,2
+porto,santa clara,1,0
+benfica,maritimo,6,0
+rio ave,porto,2,2
+santa clara,v setubal,0,0
+portimonense,feirense,1,0
+sporting cp,v guimaraes,2,0
+desportivo aves,belenenses,3,0
+chaves,nacional,4,1
+maritimo,tondela,2,0
+braga,benfica,1,4
+boavista,moreirense,3,1
+moreirense,rio ave,1,2
+feirense,chaves,4,4
+maritimo,braga,1,0
+benfica,portimonense,5,1
+porto,desportivo aves,4,0
+tondela,santa clara,1,3
+belenenses,sporting cp,1,8
+v guimaraes,nacional,2,2
+v setubal,boavista,0,3
+desportivo aves,moreirense,0,1
+santa clara,feirense,4,4
+portimonense,maritimo,3,2
+boavista,braga,4,2
+sporting cp,tondela,1,1
+chaves,v setubal,1,2
+v guimaraes,belenenses,5,1
+nacional,porto,0,4
+rio ave,benfica,2,3
+belenenses,nacional,3,0
+braga,portimonense,2,0
+feirense,desportivo aves,2,1
+maritimo,boavista,0,1
+v setubal,rio ave,1,3
+benfica,santa clara,4,1
+porto,sporting cp,2,1
+tondela,chaves,5,2
+moreirense,v guimaraes,1,3
+panaitolikos,atromitos,1,2
+paok,asteras,1,0
+aek,pas,2,0
+apollon,larissa,0,1
+xanthi,panathinaikos,0,1
+panionios,ofi,2,2
+olympiakos,levadiakos,1,0
+lamia,aris,0,3
+panathinaikos,lamia,3,1
+asteras,aek,0,1
+atromitos,xanthi,0,0
+aris,larissa,2,0
+panionios,paok,0,1
+olympiakos,pas,5,0
+levadiakos,apollon,1,0
+panaitolikos,ofi,2,1
+ofi,paok,1,3
+apollon,pas,1,2
+aek,panionios,4,0
+xanthi,panaitolikos,1,1
+larissa,panathinaikos,1,3
+atromitos,lamia,1,0
+olympiakos,asteras,2,1
+aris,levadiakos,2,0
+asteras,apollon,2,0
+atromitos,larissa,2,0
+pas,aris,1,0
+xanthi,ofi,3,0
+panathinaikos,levadiakos,3,0
+paok,aek,2,0
+panaitolikos,lamia,2,2
+panionios,olympiakos,0,1
+larissa,panaitolikos,1,0
+panathinaikos,pas,2,1
+ofi,aek,0,3
+apollon,panionios,0,2
+levadiakos,atromitos,0,2
+aris,asteras,2,0
+olympiakos,paok,0,1
+lamia,xanthi,0,0
+panionios,aris,1,0
+panaitolikos,levadiakos,2,1
+asteras,panathinaikos,1,1
+lamia,ofi,1,1
+paok,apollon,2,0
+atromitos,pas,1,0
+aek,olympiakos,1,1
+xanthi,larissa,1,0
+panathinaikos,panionios,1,0
+pas,panaitolikos,0,2
+apollon,aek,0,2
+larissa,lamia,1,2
+levadiakos,xanthi,1,2
+aris,paok,1,2
+ofi,olympiakos,1,0
+atromitos,asteras,3,2
+larissa,ofi,0,0
+lamia,levadiakos,3,2
+panionios,atromitos,2,2
+panaitolikos,asteras,1,1
+aek,aris,4,0
+xanthi,pas,2,1
+olympiakos,apollon,1,0
+paok,panathinaikos,2,0
+atromitos,paok,1,1
+panionios,panaitolikos,3,0
+panathinaikos,aek,0,0
+levadiakos,larissa,1,1
+pas,lamia,0,0
+aris,olympiakos,0,1
+ofi,apollon,0,0
+asteras,xanthi,0,1
+larissa,pas,2,0
+xanthi,panionios,0,1
+levadiakos,ofi,2,1
+aek,atromitos,0,2
+paok,panaitolikos,2,1
+lamia,asteras,0,0
+olympiakos,panathinaikos,1,1
+apollon,aris,1,2
+panathinaikos,apollon,5,1
+asteras,larissa,2,0
+panaitolikos,aek,2,1
+paok,xanthi,2,0
+pas,levadiakos,2,0
+atromitos,olympiakos,1,2
+ofi,aris,1,2
+panionios,lamia,1,0
+larissa,panionios,4,2
+apollon,atromitos,1,1
+pas,ofi,1,1
+levadiakos,asteras,0,2
+aris,panathinaikos,1,1
+aek,xanthi,2,0
+lamia,paok,0,1
+olympiakos,panaitolikos,2,1
+asteras,pas,1,0
+aek,lamia,2,0
+xanthi,olympiakos,1,1
+ofi,panathinaikos,3,1
+atromitos,aris,4,2
+paok,larissa,2,1
+panaitolikos,apollon,2,1
+panionios,levadiakos,1,1
+pas,panionios,3,1
+aris,panaitolikos,1,2
+asteras,ofi,2,1
+apollon,xanthi,1,0
+larissa,aek,0,0
+panathinaikos,atromitos,1,0
+olympiakos,lamia,3,0
+levadiakos,paok,1,2
+panionios,asteras,1,0
+lamia,apollon,2,1
+aek,levadiakos,1,0
+paok,pas,2,1
+panaitolikos,panathinaikos,0,1
+olympiakos,larissa,4,0
+ofi,atromitos,1,1
+xanthi,aris,0,1
+larissa,apollon,3,0
+atromitos,panaitolikos,2,2
+ofi,panionios,1,1
+levadiakos,olympiakos,0,2
+panathinaikos,xanthi,2,2
+asteras,paok,0,3
+aris,lamia,1,0
+pas,aek,0,4
+pas,olympiakos,1,2
+apollon,levadiakos,0,0
+paok,panionios,3,0
+ofi,panaitolikos,3,0
+larissa,aris,0,0
+xanthi,atromitos,2,1
+aek,asteras,3,0
+lamia,panathinaikos,1,0
+pas,apollon,1,0
+panaitolikos,xanthi,0,0
+panionios,aek,0,2
+levadiakos,aris,1,0
+lamia,atromitos,2,1
+paok,ofi,4,0
+panathinaikos,larissa,1,1
+asteras,olympiakos,0,2
+lamia,panaitolikos,0,2
+olympiakos,panionios,4,0
+ofi,xanthi,0,0
+apollon,asteras,0,2
+larissa,atromitos,0,1
+levadiakos,panathinaikos,0,0
+aris,pas,1,0
+aek,paok,1,1
+panionios,apollon,0,1
+xanthi,lamia,0,0
+pas,panathinaikos,1,0
+aek,ofi,1,0
+atromitos,levadiakos,1,0
+paok,olympiakos,3,1
+panaitolikos,larissa,2,2
+asteras,aris,0,3
+panathinaikos,asteras,1,0
+pas,atromitos,0,2
+larissa,xanthi,1,1
+levadiakos,panaitolikos,1,0
+aris,panionios,1,1
+olympiakos,aek,4,1
+apollon,paok,1,5
+ofi,lamia,1,3
+asteras,atromitos,1,1
+aek,apollon,2,1
+panionios,panathinaikos,2,0
+xanthi,levadiakos,0,1
+lamia,larissa,2,1
+paok,aris,1,1
+olympiakos,ofi,5,1
+panaitolikos,pas,1,0
+aris,aek,2,0
+pas,xanthi,0,0
+ofi,larissa,0,0
+atromitos,panionios,3,0
+levadiakos,lamia,1,1
+panathinaikos,paok,0,2
+asteras,panaitolikos,3,0
+apollon,olympiakos,0,2
+xanthi,asteras,0,0
+aek,panathinaikos,0,0
+larissa,levadiakos,2,0
+apollon,ofi,0,0
+paok,atromitos,3,0
+lamia,pas,1,1
+olympiakos,aris,4,1
+panaitolikos,panionios,5,0
+asteras,lamia,0,0
+panaitolikos,paok,1,2
+pas,larissa,0,0
+ofi,levadiakos,2,0
+atromitos,aek,0,1
+panathinaikos,olympiakos,0,3
+panionios,xanthi,1,0
+aris,apollon,5,0
+levadiakos,pas,0,2
+lamia,panionios,1,0
+larissa,asteras,2,1
+aris,ofi,3,1
+aek,panaitolikos,4,0
+xanthi,paok,1,2
+olympiakos,atromitos,2,1
+apollon,panathinaikos,1,3
+ofi,pas,1,0
+panathinaikos,aris,2,0
+panionios,larissa,1,0
+xanthi,aek,1,2
+asteras,levadiakos,0,0
+panaitolikos,olympiakos,0,5
+paok,lamia,3,0
+atromitos,apollon,1,0
+larissa,paok,1,1
+apollon,panaitolikos,0,1
+aris,atromitos,0,2
+lamia,aek,2,2
+levadiakos,panionios,1,2
+olympiakos,xanthi,4,0
+panathinaikos,ofi,1,3
+pas,asteras,0,0
+aek,larissa,0,1
+xanthi,apollon,2,0
+atromitos,panathinaikos,2,0
+lamia,olympiakos,1,3
+ofi,asteras,1,1
+paok,levadiakos,5,0
+panaitolikos,aris,1,2
+panionios,pas,2,1
+apollon,lamia,0,3
+panathinaikos,panaitolikos,4,0
+larissa,olympiakos,0,3
+aris,xanthi,7,2
+asteras,panionios,3,0
+atromitos,ofi,0,2
+levadiakos,aek,0,3
+pas,paok,0,2
+standard liege,gent,3,2
+kortrijk,anderlecht,1,4
+zulte,waasland beveren,2,2
+sint truiden,cercle,0,0
+kv,royal excel,2,1
+club brugge,as eupen,5,2
+charleroi,antwerp,0,1
+lokeren,genk,0,4
+waasland beveren,standard liege,0,0
+as eupen,charleroi,1,4
+cercle,lokeren,3,2
+antwerp,kortrijk,0,0
+gent,zulte,1,1
+anderlecht,kv,5,2
+genk,sint truiden,1,1
+royal excel,club brugge,0,1
+club brugge,kortrijk,3,0
+standard liege,cercle,0,0
+zulte,as eupen,4,0
+sint truiden,lokeren,1,1
+royal excel,antwerp,0,1
+kv,genk,0,2
+charleroi,anderlecht,1,2
+gent,waasland beveren,4,1
+anderlecht,royal excel,2,0
+lokeren,standard liege,0,3
+cercle,zulte waregem,3,1
+waasland beveren,sint truiden,2,2
+kortrijk,kv,1,2
+antwerp,club brugge,1,1
+genk,charleroi,3,1
+as eupen,gent,2,3
+kv,zulte,3,1
+standard liege,sint truiden,3,2
+royal excel,as eupen,0,1
+antwerp,cercle,1,0
+charleroi,kortrijk,0,2
+club brugge,anderlecht,2,1
+gent,lokeren,2,1
+genk,waasland beveren,3,2
+zulte waregem,club brugge,2,5
+as eupen,standard liege,2,1
+lokeren,waasland beveren,1,0
+sint truiden,kv,1,0
+charleroi,royal excel,3,1
+anderlecht,antwerp,1,1
+cercle,gent,0,3
+kortrijk,genk,3,3
+club brugge,lokeren,2,1
+standard liege,charleroi,0,0
+kv,cercle,1,1
+waasland beveren,as eupen,0,0
+genk,anderlecht,1,0
+royal excel,kortrijk,1,0
+antwerp,zulte,5,1
+gent,sint truiden,1,2
+zulte,kortrijk,0,2
+waasland beveren,charleroi,1,1
+as eupen,kv,1,2
+lokeren,royal excel,0,0
+sint truiden,antwerp,2,0
+gent,club brugge,0,4
+anderlecht,standard liege,2,1
+cercle,genk,2,5
+kortrijk,as eupen,1,3
+genk,zulte,4,0
+royal excel,waasland beveren,0,3
+charleroi,lokeren,2,1
+club brugge,cercle,4,0
+anderlecht,sint truiden,0,0
+kv,standard liege,1,3
+antwerp,gent,2,2
+cercle,charleroi,2,1
+as eupen,antwerp,1,2
+lokeren,kortrijk,1,3
+sint truiden,royal excel,3,1
+waasland beveren,kv,1,1
+zulte,anderlecht,1,2
+standard liege,club brugge,3,1
+gent,genk,1,5
+club brugge,waasland beveren,1,1
+royal excel,standard liege,0,0
+kortrijk,sint truiden,3,1
+antwerp,lokeren,2,1
+genk,as eupen,2,1
+anderlecht,cercle,4,2
+kv,gent,0,4
+charleroi,zulte,3,2
+gent,charleroi,2,1
+zulte,royal excel,2,2
+cercle,kortrijk,1,1
+lokeren,kv,0,0
+sint truiden,club brugge,2,2
+standard liege,genk,1,1
+as eupen,anderlecht,2,1
+waasland beveren,antwerp,0,1
+club brugge,kv,4,0
+royal excel,gent,3,1
+charleroi,sint truiden,1,0
+kortrijk,waasland beveren,2,2
+as eupen,cercle,2,0
+antwerp,genk,2,4
+anderlecht,lokeren,1,1
+zulte,standard liege,3,1
+kv,charleroi,2,1
+genk,club brugge,1,1
+cercle,royal excel,2,1
+gent,kortrijk,3,1
+standard liege,antwerp,0,2
+waasland beveren,anderlecht,1,2
+lokeren,as eupen,2,0
+sint truiden,zulte,2,1
+antwerp,kv,2,0
+charleroi,club brugge,2,1
+as eupen,sint truiden,1,4
+zulte,lokeren,2,0
+cercle,waasland beveren,2,0
+anderlecht,gent,2,0
+kortrijk,standard liege,0,2
+royal excel,genk,0,0
+club brugge,zulte,1,3
+standard liege,as eupen,3,0
+kv,kortrijk,1,2
+waasland beveren,royal excel,1,2
+genk,cercle,1,2
+gent,antwerp,0,0
+sint truiden,anderlecht,4,2
+lokeren,charleroi,2,4
+lokeren,gent,2,2
+charleroi,cercle,3,1
+kortrijk,royal excel,1,0
+zulte,kv,1,1
+antwerp,sint truiden,1,3
+club brugge,standard liege,3,0
+anderlecht,genk,0,1
+as eupen,waasland beveren,1,0
+waasland beveren,club brugge,2,1
+genk,kortrijk,1,1
+royal excel,zulte,0,0
+kv,lokeren,1,0
+sint truiden,standard liege,1,1
+cercle,antwerp,0,3
+anderlecht,charleroi,1,1
+gent,as eupen,2,0
+charleroi,gent,2,0
+kortrijk,club brugge,0,0
+as eupen,royal excel,1,0
+lokeren,sint truiden,2,0
+antwerp,waasland beveren,0,2
+cercle,anderlecht,2,1
+genk,kv,2,0
+standard liege,zulte,4,1
+gent,cercle,4,1
+royal excel,anderlecht,3,1
+waasland beveren,lokeren,2,1
+sint truiden,kortrijk,0,0
+standard liege,kv,3,1
+club brugge,antwerp,5,1
+as eupen,genk,0,2
+zulte,charleroi,3,1
+kortrijk,zulte,4,2
+kv,sint truiden,1,1
+cercle,as eupen,0,1
+antwerp,royal excel,2,1
+charleroi,standard liege,0,1
+genk,gent,3,1
+lokeren,club brugge,0,1
+anderlecht,waasland beveren,3,0
+sint truiden,genk,2,3
+standard liege,kortrijk,2,1
+as eupen,lokeren,4,1
+waasland beveren,cercle brugge,1,1
+zulte,antwerp,1,2
+club brugge,charleroi,0,1
+gent,anderlecht,1,0
+royal excel,kv,2,1
+antwerp,standard liege,1,1
+charleroi,waasland beveren,2,2
+cercle,sint truiden,1,2
+lokeren,zulte,0,3
+genk,royal excel,1,2
+kv,club brugge,1,2
+anderlecht,as eupen,2,1
+kortrijk,gent,1,2
+royal excel,charleroi,3,0
+kv,antwerp,0,2
+kortrijk,lokeren,2,1
+zulte,cercle,3,2
+waasland beveren,genk,1,2
+club brugge,gent,1,1
+standard liege,anderlecht,2,1
+sint truiden,as eupen,4,1
+genk,standard liege,2,0
+charleroi,kv,1,1
+as eupen,kortrijk,0,1
+sint truiden,waasland beveren,2,1
+lokeren,antwerp,2,1
+cercle,club brugge,2,2
+anderlecht,zulte,0,0
+gent,royal excel,1,2
+standard liege,lokeren,3,1
+kortrijk,charleroi,1,2
+kv,as eupen,1,1
+zulte,sint truiden,1,1
+waasland beveren,gent,2,1
+club brugge,genk,3,1
+antwerp,anderlecht,0,1
+royal excel,cercle brugge,3,0
+gent,standard liege,2,1
+as eupen,zulte,2,3
+cercle brugge,kv,2,2
+waasland beveren,kortrijk,2,6
+royal excel,lokeren,1,0
+anderlecht,club brugge,2,2
+genk,antwerp,0,0
+sint truiden,charleroi,3,1
+standard liege,royal excel,1,1
+charleroi,genk,1,1
+kortrijk,cercle,2,1
+kv,waasland beveren,1,1
+club brugge,sint truiden,1,0
+zulte,gent,1,3
+lokeren,anderlecht,1,2
+antwerp,as eupen,2,1
+anderlecht,kortrijk,2,0
+gent,kv,2,1
+genk,lokeren,1,0
+royal excel,sint truiden,1,1
+as eupen,club brugge,0,4
+cercle brugge,standard liege,1,2
+antwerp,charleroi,1,2
+waasland beveren,zulte,1,1
+club brugge,royal excel,1,2
+standard liege,waasland beveren,4,3
+kortrijk,antwerp,2,0
+kv,anderlecht,0,2
+zulte,genk,3,3
+lokeren,cercle brugge,3,1
+charleroi,as eupen,1,2
+sint truiden,gent,0,2
+crvena zvezda,dinamo vranje,3,0
+vojvodina,mladost lucani,1,1
+vozdovac,backa palanka,1,0
+napredak krus,rad,1,0
+cukaricki,zemun,1,1
+radnik surdulica,partizan,1,0
+radnicki nis,proleter,3,1
+spartak subotic,macva sabac,1,0
+zemun,vojvodina,1,1
+mladost lucani,radnik surdulica,1,0
+proleter,vozdovac,2,1
+rad,cukaricki,0,3
+macva sabac,napredak krus,1,0
+backa palanka,spartak subotic,2,1
+crvena zvezda,radnicki nis,2,0
+dinamo vranje,partizan,0,1
+cukaricki,macva sabac,1,0
+vozdovac,crvena zvezda,1,2
+radnik surdulica,zemun,2,1
+napredak krus,backa palanka,1,1
+partizan,mladost lucani,0,0
+radnicki nis,dinamo vranje,2,0
+vojvodina,rad,1,2
+spartak subotic,proleter,0,4
+radnicki nis,vozdovac,1,0
+proleter,napredak krus,1,1
+dinamo vranje,mladost lucani,1,3
+rad,radnik surdulica,3,1
+backa palanka,cukaricki,1,1
+macva sabac,vojvodina,0,0
+zemun,partizan,0,1
+crvena zvezda,spartak subotic,3,0
+cukaricki,proleter,1,0
+mladost lucani,zemun,2,1
+vozdovac,dinamo vranje,2,0
+vojvodina,backa palanka,2,0
+spartak subotic,radnicki nis,1,4
+radnik surdulica,macva sabac,0,1
+proleter,vojvodina,0,1
+rad,mladost lucani,1,1
+backa palanka,radnik surdulica,1,0
+radnicki nis,napredak krus,3,3
+crvena zvezda,cukaricki,2,1
+macva sabac,partizan,1,3
+vozdovac,spartak subotic,0,0
+dinamo vranje,zemun,1,0
+mladost lucani,macva sabac,1,2
+zemun,rad,1,0
+cukaricki,radnicki nis,1,1
+napredak krus,vozdovac,0,0
+radnik surdulica,proleter,0,0
+spartak subotic,dinamo vranje,2,0
+vojvodina,crvena zvezda,1,4
+partizan,backa palanka,1,0
+radnicki nis,vojvodina,1,0
+proleter,partizan,0,1
+dinamo vranje,rad,0,1
+backa palanka,mladost lucani,0,2
+macva sabac,zemun,0,2
+crvena zvezda,radnik surdulica,6,0
+spartak subotic,napredak krus,0,1
+vozdovac,cukaricki,1,3
+partizan,rad,1,0
+cukaricki,spartak subotic,3,1
+napredak krus,dinamo vranje,3,0
+zemun,backa palanka,2,2
+radnik surdulica,radnicki nis,1,2
+vojvodina,vozdovac,3,0
+rad,macva sabac,1,0
+mladost lucani,proleter,1,0
+partizan,crvena zvezda,1,1
+napredak krus,crvena zvezda,0,3
+crvena zvezda,mladost lucani,2,1
+spartak subotic,vojvodina,0,1
+proleter,zemun,4,1
+backa palanka,rad,1,0
+vozdovac,radnik surdulica,1,0
+dinamo vranje,macva sabac,1,0
+napredak krus,cukaricki,1,1
+radnicki nis,partizan,2,2
+partizan,vozdovac,4,0
+mladost lucani,radnicki nis,0,1
+radnik surdulica,spartak subotic,0,0
+macva sabac,backa palanka,2,0
+rad,proleter,1,3
+vojvodina,napredak krus,0,1
+cukaricki,dinamo vranje,6,1
+zemun,crvena zvezda,1,2
+cukaricki,vojvodina,1,0
+vozdovac,mladost lucani,1,1
+napredak krus,radnik surdulica,1,1
+proleter,macva sabac,1,0
+crvena zvezda,rad,3,1
+radnicki nis,zemun,2,0
+spartak subotic,partizan,0,0
+dinamo vranje,backa palanka,1,1
+zemun,vozdovac,2,1
+vojvodina,dinamo vranje,2,0
+partizan,napredak krus,1,1
+radnik surdulica,cukaricki,1,0
+rad,radnicki nis,0,0
+backa palanka,proleter,0,1
+macva sabac,crvena zvezda,0,2
+mladost lucani,spartak subotic,2,1
+spartak subotic,zemun,2,2
+dinamo vranje,proleter,2,4
+vozdovac,rad,2,0
+napredak krus,mladost lucani,4,1
+radnicki nis,macva sabac,3,0
+vojvodina,radnik surdulica,1,0
+cukaricki,partizan,1,1
+crvena zvezda,backa palanka,3,1
+proleter,crvena zvezda,0,2
+backa palanka,radnicki nis,0,2
+radnik surdulica,dinamo vranje,2,0
+mladost lucani,cukaricki,3,4
+zemun,napredak krus,0,2
+rad,spartak subotic,1,1
+macva sabac,vozdovac,2,0
+partizan,vojvodina,2,0
+proleter,radnicki nis,1,2
+partizan,radnik surdulica,2,0
+macva sabac,spartak subotic,0,0
+backa palanka,vozdovac,1,0
+zemun,cukaricki,0,3
+dinamo vranje,crvena zvezda,0,3
+mladost lucani,vojvodina,1,0
+rad,napredak krus,0,2
+cukaricki,rad,2,1
+spartak subotic,backa palanka,3,0
+napredak krus,macva sabac,2,0
+radnik surdulica,mladost lucani,1,0
+vojvodina,zemun,0,0
+vozdovac,proleter,0,0
+radnicki nis,crvena zvezda,2,2
+partizan,dinamo vranje,6,0
+backa palanka,napredak krus,3,3
+rad,vojvodina,0,1
+zemun,radnik surdulica,0,0
+macva sabac,cukaricki,1,0
+mladost lucani,partizan,1,1
+dinamo vranje,radnicki nis,0,4
+proleter,spartak subotic,2,2
+crvena zvezda,vozdovac,2,0
+spartak subotic,crvena zvezda,1,3
+vojvodina,macva sabac,1,1
+mladost lucani,dinamo vranje,2,0
+cukaricki,backa palanka,3,0
+napredak krus,proleter,1,1
+vozdovac,radnicki nis,0,1
+radnik surdulica,rad,1,0
+partizan,zemun,1,0
+crvena zvezda,napredak krus,3,0
+radnicki nis,spartak subotic,3,0
+macva sabac,radnik surdulica,1,2
+dinamo vranje,vozdovac,1,2
+zemun,mladost lucani,0,3
+proleter,cukaricki,0,0
+backa palanka,vojvodina,0,0
+rad,partizan,0,3
+partizan,macva sabac,0,0
+radnik surdulica,backa palanka,3,2
+spartak subotic,vozdovac,3,2
+vojvodina,proleter,0,0
+cukaricki,crvena zvezda,1,2
+zemun,dinamo vranje,1,2
+napredak krus,radnicki nis,1,2
+mladost lucani,rad,0,0
+vozdovac,napredak krus,4,0
+backa palanka,partizan,0,3
+proleter,radnik surdulica,0,0
+macva sabac,mladost lucani,0,1
+radnicki nis,cukaricki,2,0
+crvena zvezda,vojvodina,4,0
+dinamo vranje,spartak subotic,1,0
+rad,zemun,2,2
+vojvodina,radnicki nis,0,1
+zemun,macva sabac,0,0
+napredak krus,spartak subotic,0,0
+mladost lucani,backa palanka,5,0
+radnik surdulica,crvena zvezda,0,1
+partizan,proleter,3,0
+cukaricki,vozdovac,3,0
+rad,dinamo vranje,1,1
+macva sabac,rad,0,0
+vozdovac,vojvodina,1,0
+radnicki nis,radnik surdulica,4,1
+dinamo vranje,napredak krus,4,0
+proleter,mladost lucani,2,0
+spartak subotic,cukaricki,1,2
+crvena zvezda,partizan,1,1
+backa palanka,zemun,2,0
+zemun,proleter,0,0
+cukaricki,napredak krus,2,1
+radnik surdulica,vozdovac,2,1
+macva sabac,dinamo vranje,0,0
+rad,backa palanka,1,1
+mladost lucani,crvena zvezda,1,3
+vojvodina,spartak subotic,1,2
+partizan,radnicki nis,0,1
+radnicki nis,mladost lucani,1,0
+napredak krus,vojvodina,0,0
+crvena zvezda,zemun,4,0
+dinamo vranje,cukaricki,0,0
+spartak subotic,radnik surdulica,3,2
+vozdovac,partizan,1,0
+backa palanka,macva sabac,0,1
+proleter,rad,0,0
+backa palanka,dinamo vranje,5,1
+zemun,radnicki nis,0,1
+partizan,spartak subotic,1,3
+radnik surdulica,napredak krus,1,0
+macva sabac,proleter,2,1
+rad,crvena zvezda,0,3
+mladost lucani,vozdovac,3,1
+vojvodina,cukaricki,0,0
+proleter,backa palanka,3,0
+spartak subotic,mladost lucani,1,0
+dinamo vranje,vojvodina,1,3
+radnicki nis,rad,2,0
+cukaricki,radnik surdulica,2,0
+crvena zvezda,macva sabac,2,1
+napredak krus,partizan,1,0
+vozdovac,zemun,3,1
+rad,vozdovac,0,1
+zemun,spartak subotic,0,2
+backa palanka,crvena zvezda,1,3
+proleter,dinamo vranje,0,0
+radnik surdulica,vojvodina,0,1
+macva sabac,radnicki nis,0,0
+mladost lucani,napredak krus,2,0
+partizan,cukaricki,3,2
+cukaricki,mladost lucani,0,0
+vojvodina,partizan,3,2
+dinamo vranje,radnik surdulica,0,3
+napredak krus,zemun,1,0
+vozdovac,macva sabac,1,0
+spartak subotic,rad,1,0
+radnicki nis,backa palanka,5,1
+crvena zvezda,proleter,4,0
+ural,anzhi,0,1
+spartak moskva,orenburg,1,0
+rostov,akhmat grozny,1,0
+yenisey,zenit,0,2
+arsenal tula,dynamo mosc,0,0
+rubin kazan,krasnodar,2,1
+ufa,lokomotiv moskva,0,0
+samara,cska moskva,0,0
+dynamo mosc,rubin kazan,1,1
+ural,krasnodar,1,2
+zenit,arsenal tula,1,0
+lokomotiv moskva,spartak moskva,0,0
+samara,orenburg,0,3
+cska moskva,rostov,0,1
+akhmat grozny,yenisey,1,0
+ufa,anzhi,3,0
+ural,dynamo mosc,1,1
+yenisey,cska moskva,1,1
+spartak moskva,anzhi,1,0
+rostov,samara,0,1
+orenburg,lokomotiv moskva,1,0
+arsenal tula,akhmat grozny,3,1
+ufa,krasnodar,0,1
+rubin kazan,zenit,0,1
+anzhi,orenburg,1,3
+cska moskva,arsenal tula,3,0
+krasnodar,spartak moskva,0,1
+akhmat grozny,rubin kazan,1,1
+samara,lokomotiv moskva,0,1
+zenit,ural,4,1
+rostov,yenisey,4,0
+dynamo mosc,ufa,3,0
+arsenal tula,rostov,0,1
+ural,akhmat grozny,2,1
+rubin kazan,cska moskva,1,1
+spartak moskva,dynamo mosc,2,1
+orenburg,krasnodar,1,1
+ufa,zenit,0,2
+lokomotiv moskva,anzhi,2,1
+yenisey,samara,1,0
+rostov,rubin kazan,1,1
+samara,anzhi,1,0
+cska moskva,ural,4,0
+krasnodar,lokomotiv moskva,2,1
+yenisey,arsenal tula,0,0
+dynamo mosc,orenburg,2,0
+zenit,spartak moskva,0,0
+akhmat grozny,ufa,2,1
+lokomotiv moskva,dynamo mosc,1,1
+rubin kazan,yenisey,1,0
+ufa,cska moskva,0,3
+arsenal tula,samara,4,0
+orenburg,zenit,1,2
+anzhi,krasnodar,0,4
+spartak moskva,akhmat grozny,1,2
+ural,rostov,1,1
+yenisey,ural,1,2
+dynamo mosc,anzhi,0,1
+arsenal tula,rubin kazan,2,2
+rostov,ufa,0,0
+akhmat grozny,orenburg,1,1
+zenit,lokomotiv moskva,5,3
+cska moskva,spartak moskva,1,1
+samara,krasnodar,0,3
+orenburg,cska moskva,0,1
+ural,arsenal tula,2,1
+ufa,yenisey,2,1
+lokomotiv moskva,akhmat grozny,2,0
+anzhi,zenit,2,1
+krasnodar,dynamo mosc,3,0
+spartak moskva,rostov,0,1
+rubin kazan,samara,2,1
+arsenal tula,ufa,1,1
+samara,dynamo mosc,1,0
+rostov,orenburg,0,1
+rubin kazan,ural,1,0
+yenisey,spartak moskva,2,3
+akhmat grozny,anzhi,0,0
+zenit,krasnodar,2,1
+cska moskva,lokomotiv moskva,0,1
+anzhi,cska moskva,0,2
+lokomotiv moskva,rostov,2,1
+orenburg,yenisey,0,0
+ural,samara,1,1
+ufa,rubin kazan,0,0
+dynamo mosc,zenit,1,0
+spartak moskva,arsenal tula,2,3
+krasnodar,akhmat grozny,0,1
+ural,ufa,1,1
+arsenal tula,orenburg,2,2
+rostov,anzhi,1,0
+yenisey,lokomotiv moskva,0,3
+akhmat grozny,dynamo mosc,0,0
+cska moskva,krasnodar,1,2
+samara,zenit,0,1
+rubin kazan,spartak moskva,1,1
+lokomotiv moskva,arsenal tula,3,1
+dynamo mosc,cska moskva,0,0
+zenit,akhmat grozny,1,0
+krasnodar,rostov,2,2
+spartak moskva,ural,1,2
+orenburg,rubin kazan,1,0
+ufa,samara,1,2
+anzhi,yenisey,2,1
+arsenal tula,anzhi,2,0
+ural,orenburg,2,1
+samara,akhmat grozny,1,2
+rostov,dynamo mosc,0,0
+ufa,spartak moskva,2,0
+krasnodar,yenisey,3,0
+rubin kazan,lokomotiv moskva,0,0
+cska moskva,zenit,2,0
+akhmat grozny,cska moskva,0,2
+lokomotiv moskva,ural,1,2
+dynamo mosc,yenisey,1,2
+orenburg,ufa,1,0
+anzhi,rubin kazan,1,1
+spartak moskva,samara,3,1
+krasnodar,arsenal tula,3,0
+zenit,rostov,2,0
+rubin kazan,dynamo mosc,1,1
+yenisey,akhmat grozny,1,1
+anzhi,ufa,0,0
+krasnodar,ural,2,0
+rostov,cska moskva,0,0
+spartak moskva,lokomotiv moskva,2,1
+arsenal tula,zenit,4,2
+samara,rostov,1,0
+cska moskva,yenisey,2,1
+lokomotiv moskva,orenburg,2,1
+anzhi,spartak moskva,0,3
+dynamo mosc,ural,4,0
+krasnodar,ufa,1,1
+zenit,rubin kazan,1,2
+akhmat grozny,arsenal tula,2,0
+orenburg,anzhi,0,1
+ural,zenit,0,1
+arsenal tula,cska moskva,2,0
+lokomotiv moskva,samara,2,2
+rubin kazan,akhmat grozny,1,0
+ufa,dynamo mosc,1,2
+yenisey,rostov,1,1
+spartak moskva,krasnodar,1,1
+samara,yenisey,4,0
+cska moskva,rubin kazan,3,0
+rostov,arsenal tula,0,0
+zenit,ufa,2,1
+dynamo mosc,spartak moskva,0,1
+anzhi,lokomotiv moskva,0,2
+akhmat grozny,ural,1,1
+krasnodar,orenburg,2,2
+anzhi,samara,0,2
+orenburg,dynamo mosc,1,0
+ural,cska moskva,0,1
+rubin kazan,rostov,0,2
+arsenal tula,yenisey,2,0
+ufa,akhmat grozny,0,1
+lokomotiv moskva,krasnodar,1,0
+spartak moskva,zenit,1,1
+samara,arsenal tula,0,1
+yenisey,rubin kazan,1,1
+dynamo mosc,lokomotiv moskva,0,1
+akhmat grozny,spartak moskva,1,3
+rostov,ural,2,1
+zenit,orenburg,3,1
+cska moskva,ufa,2,2
+krasnodar,anzhi,5,0
+orenburg,samara,3,1
+anzhi,dynamo mosc,1,1
+krasnodar,samara,1,0
+spartak moskva,cska moskva,0,2
+ufa,rostov,1,0
+ural,yenisey,3,2
+rubin kazan,arsenal tula,0,0
+lokomotiv moskva,zenit,1,1
+orenburg,akhmat grozny,1,3
+samara,rubin kazan,1,0
+yenisey,ufa,0,0
+cska moskva,orenburg,2,3
+arsenal tula,ural,0,0
+akhmat grozny,lokomotiv moskva,1,3
+dynamo mosc,krasnodar,1,1
+zenit,anzhi,5,0
+rostov,spartak moskva,2,1
+anzhi,akhmat grozny,0,1
+ufa,arsenal tula,1,2
+orenburg,rostov,3,0
+dynamo mosc,samara,1,0
+lokomotiv moskva,cska moskva,1,1
+krasnodar,zenit,2,3
+ural,rubin kazan,2,1
+spartak moskva,yenisey,2,0
+akhmat grozny,krasnodar,1,1
+rostov,lokomotiv moskva,1,2
+rubin kazan,ufa,1,1
+cska moskva,anzhi,2,0
+zenit,dynamo mosc,2,0
+yenisey,orenburg,2,1
+samara,ural,0,1
+arsenal tula,spartak moskva,3,0
+anzhi,rostov,1,1
+dynamo mosc,akhmat grozny,0,0
+ufa,ural,4,1
+lokomotiv moskva,yenisey,2,1
+zenit,samara,4,2
+krasnodar,cska moskva,2,0
+orenburg,arsenal tula,1,1
+spartak moskva,rubin kazan,1,1
+yenisey,anzhi,3,1
+rubin kazan,orenburg,2,0
+ural,spartak moskva,0,1
+akhmat grozny,zenit,1,1
+arsenal tula,lokomotiv moskva,2,0
+samara,ufa,1,1
+cska moskva,dynamo mosc,2,2
+rostov,krasnodar,1,1
+orenburg,ural,2,2
+dynamo mosc,rostov,0,0
+anzhi,arsenal tula,0,1
+lokomotiv moskva,rubin kazan,4,0
+yenisey,krasnodar,0,4
+akhmat grozny,samara,2,1
+spartak moskva,ufa,1,0
+zenit,cska moskva,3,1
+ufa,orenburg,0,2
+cska moskva,akhmat grozny,1,0
+samara,spartak moskva,1,2
+ural,lokomotiv moskva,2,2
+yenisey,dynamo mosc,2,2
+arsenal tula,krasnodar,0,3
+rostov,zenit,1,0
+rubin kazan,anzhi,0,0
+akhmat grozny,rostov,1,0
+lokomotiv moskva,ufa,1,0
+dynamo mosc,arsenal tula,3,3
+krasnodar,rubin kazan,1,0
+zenit,yenisey,4,1
+cska moskva,samara,6,0
+anzhi,ural,0,2
+orenburg,spartak moskva,2,0
+ankaragucu,galatasaray,1,3
+sivasspor,alanyaspor,1,0
+rizespor,kasimpasa,2,3
+fenerbahce,bursaspor,2,1
+basaksehir,trabzonspor,2,0
+konyaspor,bb erzurumspor,3,2
+besiktas,akhisarspor,2,1
+goztepe,yeni malspor,1,3
+kayserispor,antalyaspor,2,0
+trabzonspor,sivasspor,3,1
+bursaspor,kayserispor,0,0
+antalyaspor,konyaspor,3,3
+yeni malspor,fenerbahce,1,0
+akhisarspor,rizespor,1,1
+bb erzurumspor,besiktas,1,3
+alanyaspor,ankaragucu,0,2
+galatasaray,goztepe,1,0
+kasimpasa,basaksehir,2,1
+rizespor,bb erzurumspor,0,0
+ankaragucu,trabzonspor,2,2
+kayserispor,yeni malspor,0,0
+goztepe,fenerbahce,1,0
+sivasspor,kasimpasa,0,3
+besiktas,antalyaspor,2,3
+konyaspor,bursaspor,1,1
+basaksehir,akhisarspor,3,1
+galatasaray,alanyaspor,6,0
+yeni malspor,konyaspor,0,1
+akhisarspor,sivasspor,1,1
+fenerbahce,kayserispor,2,3
+trabzonspor,galatasaray,4,0
+alanyaspor,goztepe,1,0
+bb erzurumspor,basaksehir,0,1
+kasimpasa,ankaragucu,2,1
+antalyaspor,rizespor,2,1
+bursaspor,besiktas,1,1
+galatasaray,kasimpasa,4,1
+ankaragucu,akhisarspor,1,0
+besiktas,yeni malspor,1,0
+besiktas,yeni malspor,2,1
+goztepe,kayserispor,2,0
+basaksehir,antalyaspor,4,0
+sivasspor,bb erzurumspor,2,2
+rizespor,bursaspor,1,1
+konyaspor,fenerbahce,0,1
+alanyaspor,trabzonspor,1,0
+bb erzurumspor,ankaragucu,0,1
+bursaspor,basaksehir,0,0
+yeni malspor,rizespor,1,0
+kayserispor,konyaspor,0,2
+trabzonspor,goztepe,1,2
+kasimpasa,alanyaspor,1,2
+akhisarspor,galatasaray,3,0
+antalyaspor,sivasspor,2,1
+fenerbahce,besiktas,1,1
+galatasaray,bb erzurumspor,1,0
+alanyaspor,akhisarspor,2,1
+trabzonspor,kasimpasa,4,2
+besiktas,kayserispor,2,0
+sivasspor,bursaspor,2,0
+goztepe,konyaspor,3,2
+rizespor,fenerbahce,3,0
+ankaragucu,antalyaspor,0,1
+basaksehir,yeni malspor,1,1
+kasimpasa,goztepe,3,1
+kayserispor,rizespor,2,2
+bursaspor,ankaragucu,1,0
+bb erzurumspor,alanyaspor,1,0
+antalyaspor,galatasaray,0,1
+yeni malspor,sivasspor,4,4
+fenerbahce,basaksehir,0,0
+akhisarspor,trabzonspor,1,3
+konyaspor,besiktas,2,2
+galatasaray,bursaspor,1,1
+kasimpasa,akhisarspor,5,0
+basaksehir,kayserispor,1,0
+sivasspor,fenerbahce,0,0
+rizespor,konyaspor,1,1
+ankaragucu,yeni malspor,1,0
+alanyaspor,antalyaspor,0,1
+goztepe,besiktas,2,0
+trabzonspor,bb erzurumspor,0,0
+bursaspor,alanyaspor,2,0
+bb erzurumspor,kasimpasa,1,1
+konyaspor,basaksehir,0,1
+antalyaspor,trabzonspor,1,1
+kayserispor,sivasspor,2,0
+yeni malspor,galatasaray,2,0
+fenerbahce,ankaragucu,1,3
+besiktas,rizespor,4,1
+akhisarspor,goztepe,1,0
+galatasaray,fenerbahce,2,2
+kasimpasa,antalyaspor,1,2
+akhisarspor,bb erzurumspor,1,1
+basaksehir,besiktas,1,0
+ankaragucu,kayserispor,3,1
+alanyaspor,yeni malspor,0,1
+trabzonspor,bursaspor,1,1
+goztepe,rizespor,2,0
+sivasspor,konyaspor,0,0
+yeni malspor,trabzonspor,5,0
+bb erzurumspor,goztepe,2,1
+konyaspor,ankaragucu,2,0
+rizespor,basaksehir,1,2
+kayserispor,galatasaray,0,3
+bursaspor,kasimpasa,1,2
+fenerbahce,alanyaspor,2,0
+antalyaspor,akhisarspor,1,2
+besiktas,sivasspor,1,2
+galatasaray,konyaspor,1,1
+bb erzurumspor,antalyaspor,1,0
+alanyaspor,kayserispor,5,0
+ankaragucu,besiktas,1,4
+sivasspor,rizespor,1,1
+akhisarspor,bursaspor,2,4
+kasimpasa,yeni malspor,3,0
+trabzonspor,fenerbahce,2,1
+goztepe,basaksehir,0,2
+konyaspor,alanyaspor,2,0
+rizespor,ankaragucu,1,1
+basaksehir,sivasspor,0,1
+antalyaspor,goztepe,1,0
+kayserispor,trabzonspor,0,2
+bursaspor,bb erzurumspor,2,1
+besiktas,galatasaray,1,0
+yeni malspor,akhisarspor,1,1
+fenerbahce,kasimpasa,2,2
+alanyaspor,besiktas,0,0
+sivasspor,goztepe,2,0
+trabzonspor,konyaspor,3,0
+galatasaray,rizespor,2,2
+bb erzurumspor,yeni malspor,1,3
+bursaspor,antalyaspor,0,2
+akhisarspor,fenerbahce,3,0
+ankaragucu,basaksehir,0,1
+kasimpasa,kayserispor,0,3
+goztepe,bursaspor,0,0
+rizespor,alanyaspor,1,1
+sivasspor,ankaragucu,4,0
+konyaspor,kasimpasa,3,2
+basaksehir,galatasaray,1,1
+yeni malspor,antalyaspor,2,0
+kayserispor,akhisarspor,1,0
+besiktas,trabzonspor,2,2
+fenerbahce,bb erzurumspor,2,2
+ankaragucu,goztepe,0,3
+alanyaspor,basaksehir,1,1
+kasimpasa,besiktas,4,1
+bb erzurumspor,rizespor,4,1
+bursaspor,yeni malspor,1,1
+galatasaray,sivasspor,4,2
+antalyaspor,fenerbahce,0,0
+akhisarspor,konyaspor,0,0
+akhisarspor,besiktas,0,3
+yeni malspor,goztepe,3,2
+bb erzurumspor,konyaspor,1,2
+antalyaspor,kayserispor,0,0
+galatasaray,ankaragucu,6,0
+alanyaspor,sivasspor,2,0
+trabzonspor,basaksehir,2,4
+kasimpasa,rizespor,0,1
+bursaspor,fenerbahce,1,1
+besiktas,bb erzurumspor,1,1
+kayserispor,bursaspor,1,1
+goztepe,galatasaray,0,1
+rizespor,akhisarspor,3,1
+konyaspor,antalyaspor,2,0
+sivasspor,trabzonspor,1,1
+ankaragucu,alanyaspor,0,2
+fenerbahce,yeni malspor,3,2
+basaksehir,kasimpasa,2,0
+fenerbahce,goztepe,2,0
+yeni malspor,kayserispor,1,1
+trabzonspor,ankaragucu,1,0
+kasimpasa,sivasspor,1,3
+alanyaspor,galatasaray,1,1
+bb erzurumspor,rizespor,0,1
+akhisarspor,basaksehir,0,3
+antalyaspor,besiktas,2,6
+bursaspor,konyaspor,0,0
+kayserispor,fenerbahce,1,0
+rizespor,antalyaspor,1,1
+basaksehir,bb erzurumspor,1,1
+besiktas,bursaspor,2,0
+konyaspor,yeni malspor,1,1
+goztepe,alanyaspor,3,2
+galatasaray,trabzonspor,3,1
+ankaragucu,kasimpasa,3,0
+sivasspor,akhisarspor,2,1
+yeni malspor,besiktas,1,2
+akhisarspor,ankaragucu,0,0
+bursaspor,rizespor,0,2
+fenerbahce,konyaspor,1,1
+bb erzurumspor,sivasspor,4,2
+kayserispor,goztepe,2,1
+trabzonspor,alanyaspor,0,2
+kasimpasa,galatasaray,1,4
+antalyaspor,basaksehir,0,1
+goztepe,trabzonspor,1,3
+rizespor,yeni malspor,3,0
+sivasspor,antalyaspor,1,2
+alanyaspor,kasimpasa,3,0
+ankaragucu,bb erzurumspor,2,1
+konyaspor,kayserispor,0,1
+galatasaray,akhisarspor,1,0
+basaksehir,bursaspor,3,0
+besiktas,fenerbahce,3,3
+antalyaspor,ankaragucu,2,4
+bursaspor,sivasspor,3,2
+kayserispor,besiktas,2,2
+fenerbahce,rizespor,3,2
+konyaspor,goztepe,1,1
+yeni malspor,basaksehir,0,2
+bb erzurumspor,galatasaray,1,1
+akhisarspor,alanyaspor,3,1
+kasimpasa,trabzonspor,2,2
+sivasspor,yeni malspor,2,0
+trabzonspor,akhisarspor,2,1
+ankaragucu,bursaspor,0,0
+basaksehir,fenerbahce,2,1
+alanyaspor,bb erzurumspor,2,1
+goztepe,kasimpasa,0,0
+rizespor,kayserispor,3,0
+besiktas,konyaspor,3,2
+galatasaray,antalyaspor,5,0
+fenerbahce,sivasspor,2,1
+konyaspor,rizespor,0,2
+akhisarspor,kasimpasa,2,3
+bb erzurumspor,trabzonspor,0,1
+antalyaspor,alanyaspor,3,0
+besiktas,goztepe,1,0
+yeni malspor,ankaragucu,3,1
+kayserispor,basaksehir,1,1
+bursaspor,galatasaray,2,3
+trabzonspor,antalyaspor,4,1
+alanyaspor,bursaspor,1,0
+sivasspor,kayserispor,1,3
+galatasaray,yeni malspor,3,0
+kasimpasa,bb erzurumspor,2,1
+ankaragucu,fenerbahce,1,1
+goztepe,akhisarspor,0,1
+basaksehir,konyaspor,2,0
+rizespor,besiktas,2,7
+bursaspor,trabzonspor,0,1
+rizespor,goztepe,1,0
+konyaspor,sivasspor,1,1
+besiktas,basaksehir,2,1
+kayserispor,ankaragucu,0,2
+antalyaspor,kasimpasa,1,0
+yeni malspor,alanyaspor,1,1
+fenerbahce,galatasaray,1,1
+bb erzurumspor,akhisarspor,2,1
+kasimpasa,bursaspor,1,1
+akhisarspor,antalyaspor,1,2
+trabzonspor,yeni malspor,2,1
+goztepe,bb erzurumspor,0,1
+galatasaray,kayserispor,3,1
+ankaragucu,konyaspor,0,0
+basaksehir,rizespor,1,1
+alanyaspor,fenerbahce,1,0
+sivasspor,besiktas,1,2
+basaksehir,goztepe,0,2
+rizespor,sivasspor,0,0
+antalyaspor,bb erzurumspor,1,1
+fenerbahce,trabzonspor,1,1
+kayserispor,alanyaspor,1,1
+bursaspor,akhisarspor,0,0
+besiktas,ankaragucu,4,1
+konyaspor,galatasaray,0,0
+yeni malspor,kasimpasa,2,1
+sivasspor,basaksehir,0,0
+ankaragucu,rizespor,2,2
+bb erzurumspor,bursaspor,2,0
+kasimpasa,fenerbahce,1,3
+goztepe,antalyaspor,4,1
+akhisarspor,yeni malspor,0,2
+galatasaray,besiktas,2,0
+alanyaspor,konyaspor,2,4
+trabzonspor,kayserispor,4,2
+antalyaspor,bursaspor,0,1
+rizespor,galatasaray,2,3
+goztepe,sivasspor,3,3
+fenerbahce,akhisarspor,2,1
+konyaspor,trabzonspor,2,2
+kayserispor,kasimpasa,2,1
+yeni malspor,bb erzurumspor,3,1
+basaksehir,ankaragucu,2,1
+besiktas,alanyaspor,2,1
+kasimpasa,konyaspor,1,1
+trabzonspor,besiktas,2,1
+antalyaspor,yeni malspor,3,0
+akhisarspor,kayserispor,2,2
+bursaspor,goztepe,0,0
+alanyaspor,rizespor,1,1
+galatasaray,basaksehir,2,1
+ankaragucu,sivasspor,3,1
+bb erzurumspor,fenerbahce,0,1
+basaksehir,alanyaspor,1,1
+besiktas,kasimpasa,3,2
+sivasspor,galatasaray,4,3
+rizespor,trabzonspor,2,3
+konyaspor,akhisarspor,0,0
+goztepe,ankaragucu,2,1
+yeni malspor,bursaspor,1,2
+kayserispor,bb erzurumspor,0,2
+fenerbahce,antalyaspor,3,1
+dukla prague,plzen,1,3
+fastav zlin,mlada boleslav,3,2
+pribram,teplice,1,1
+slovan liberec,karvina,1,0
+sparta prague,opava,2,0
+bohemians,slovacko,2,1
+sigma olomouc,slavia praha,0,3
+banik ostrava,jablonec,1,0
+mlada boleslav,sigma olomouc,0,4
+slovacko,banik ostrava,2,1
+pribram,bohemians,4,2
+opava,fastav zlin,1,2
+slavia praha,karvina,4,0
+teplice,dukla prague,5,2
+jablonec,sparta prague,1,2
+plzen,slovan liberec,1,0
+slavia praha,opava,3,1
+fastav zlin,jablonec,1,1
+slovan liberec,teplice,2,2
+banik ostrava,pribram,3,0
+sigma olomouc,plzen,0,1
+karvina,mlada boleslav,3,4
+sparta prague,slovacko,1,0
+dukla prague,bohemians,0,1
+mlada boleslav,slavia praha,0,1
+jablonec,karvina,4,1
+pribram,dukla prague,4,0
+opava,slovan liberec,1,1
+plzen,fastav zlin,1,0
+slovacko,sigma olomouc,3,1
+teplice,sparta prague,0,4
+bohemians,banik ostrava,0,1
+dukla prague,slovacko,1,2
+fastav zlin,teplice,1,0
+mlada boleslav,opava,6,1
+slovan liberec,bohemians,1,1
+slavia praha,jablonec,0,2
+karvina,plzen,0,1
+sparta prague,pribram,2,2
+sigma olomouc,banik ostrava,1,4
+bohemians,sparta prague,1,1
+pribram,slovan liberec,1,3
+banik ostrava,dukla prague,2,0
+opava,karvina,1,3
+teplice,slavia praha,0,3
+plzen,mlada boleslav,6,1
+jablonec,sigma olomouc,3,0
+slovacko,fastav zlin,0,4
+sparta prague,dukla prague,2,0
+slovan liberec,banik ostrava,0,0
+mlada boleslav,teplice,1,1
+fastav zlin,pribram,3,0
+opava,jablonec,2,0
+slavia praha,plzen,4,0
+karvina,slovacko,2,1
+sigma olomouc,bohemians,2,3
+bohemians,fastav zlin,0,1
+pribram,sigma olomouc,1,0
+plzen,opava,1,0
+dukla prague,slovan liberec,2,0
+jablonec,mlada boleslav,0,3
+teplice,karvina,2,1
+slovacko,slavia praha,1,3
+banik ostrava,sparta prague,0,1
+fastav zlin,banik ostrava,1,2
+sigma olomouc,dukla prague,1,0
+opava,teplice,2,0
+karvina,pribram,4,1
+mlada boleslav,slovacko,5,1
+sparta prague,slovan liberec,4,1
+jablonec,plzen,3,0
+bohemians,karvina,0,0
+plzen,sparta prague,1,0
+dukla prague,fastav zlin,1,1
+slovacko,opava,0,2
+pribram,mlada boleslav,3,0
+banik ostrava,slavia praha,2,1
+teplice,jablonec,1,2
+fastav zlin,slovan liberec,0,1
+mlada boleslav,banik ostrava,2,2
+sigma olomouc,sparta prague,1,0
+karvina,dukla prague,0,2
+opava,bohemians,0,1
+plzen,teplice,1,0
+jablonec,slovacko,2,0
+slavia praha,pribram,4,1
+bohemians,plzen,2,2
+sigma olomouc,fastav zlin,1,1
+slovacko,teplice,0,2
+banik ostrava,karvina,1,1
+pribram,jablonec,0,6
+dukla prague,opava,1,0
+slovan liberec,slavia praha,0,1
+sparta prague,mlada boleslav,4,1
+teplice,banik ostrava,0,1
+mlada boleslav,bohemians,3,0
+opava,pribram,5,0
+karvina,sigma olomouc,2,3
+fastav zlin,sparta prague,1,0
+jablonec,slovan liberec,0,0
+slavia praha,dukla prague,4,1
+bohemians,teplice,2,3
+banik ostrava,plzen,0,1
+dukla prague,jablonec,2,6
+pribram,slovacko,0,3
+sigma olomouc,opava,2,2
+fastav zlin,karvina,2,1
+sparta prague,slavia praha,2,2
+slovan liberec,mlada boleslav,1,0
+mlada boleslav,dukla prague,0,0
+karvina,sparta prague,1,3
+slovacko,slovan liberec,0,1
+opava,banik ostrava,2,1
+teplice,sigma olomouc,0,0
+jablonec,bohemians,3,1
+plzen,pribram,1,1
+slavia praha,fastav zlin,3,1
+slovan liberec,plzen,1,1
+dukla prague,teplice,1,0
+karvina,slavia praha,1,3
+banik ostrava,slovacko,0,3
+fastav zlin,opava,2,0
+bohemians,pribram,2,2
+sigma olomouc,mlada boleslav,0,4
+sparta prague,jablonec,0,0
+teplice,slovan liberec,1,0
+mlada boleslav,karvina,1,1
+slovacko,sparta prague,2,1
+pribram,banik ostrava,0,2
+bohemians,dukla prague,0,0
+plzen,sigma olomouc,2,0
+jablonec,fastav zlin,4,0
+opava,slavia praha,2,3
+fastav zlin,plzen,0,2
+dukla prague,pribram,1,2
+sigma olomouc,slovacko,1,0
+banik ostrava,bohemians,2,0
+karvina,jablonec,2,1
+slavia praha,mlada boleslav,3,2
+sparta prague,teplice,0,1
+slovan liberec,opava,1,2
+banik ostrava,sigma olomouc,0,0
+bohemians,slovan liberec,0,0
+opava,mlada boleslav,2,1
+teplice,fastav zlin,2,1
+slovacko,dukla prague,1,0
+pribram,sparta prague,1,1
+plzen,karvina,2,1
+jablonec,slavia praha,0,2
+sigma olomouc,jablonec,1,2
+dukla prague,banik ostrava,1,1
+slovan liberec,pribram,4,0
+mlada boleslav,plzen,1,1
+fastav zlin,slovacko,0,1
+karvina,opava,1,1
+slavia praha,teplice,2,0
+sparta prague,bohemians,1,0
+teplice,mlada boleslav,0,2
+bohemians,sigma olomouc,0,1
+pribram,fastav zlin,3,2
+slovacko,karvina,2,0
+banik ostrava,slovan liberec,2,1
+jablonec,opava,2,2
+plzen,slavia praha,2,0
+dukla prague,sparta prague,2,3
+slovan liberec,dukla prague,2,0
+sigma olomouc,pribram,2,0
+karvina,teplice,1,1
+fastav zlin,bohemians,0,2
+mlada boleslav,jablonec,1,0
+sparta prague,banik ostrava,3,2
+slavia praha,slovacko,4,0
+opava,plzen,1,2
+banik ostrava,fastav zlin,1,2
+plzen,jablonec,1,0
+pribram,karvina,2,1
+slovacko,mlada boleslav,1,1
+dukla prague,sigma olomouc,0,4
+slovan liberec,sparta prague,0,1
+teplice,opava,3,2
+bohemians,slavia praha,0,3
+jablonec,teplice,2,1
+opava,slovacko,2,2
+karvina,bohemians,0,3
+fastav zlin,dukla prague,2,1
+mlada boleslav,pribram,2,0
+sparta prague,plzen,4,0
+slavia praha,banik ostrava,4,0
+sigma olomouc,slovan liberec,2,1
+teplice,plzen,2,1
+dukla prague,karvina,2,1
+banik ostrava,mlada boleslav,1,1
+slovacko,jablonec,0,0
+slovan liberec,fastav zlin,1,0
+sparta prague,sigma olomouc,2,1
+bohemians,opava,0,0
+pribram,slavia praha,0,2
+karvina,banik ostrava,2,0
+teplice,slovacko,2,0
+mlada boleslav,sparta prague,2,1
+fastav zlin,sigma olomouc,0,2
+opava,dukla prague,2,0
+slavia praha,slovan liberec,1,1
+jablonec,pribram,3,0
+plzen,bohemians,3,2
+pribram,opava,3,1
+dukla prague,slavia praha,1,5
+slovan liberec,jablonec,0,0
+bohemians,mlada boleslav,0,0
+banik ostrava,teplice,3,1
+sigma olomouc,karvina,3,2
+slovacko,plzen,0,1
+sparta prague,fastav zlin,2,0
+teplice,bohemians,1,2
+opava,sigma olomouc,2,1
+karvina,fastav zlin,2,0
+slovacko,pribram,2,0
+plzen,banik ostrava,2,1
+jablonec,dukla prague,2,1
+slavia praha,sparta prague,1,1
+mlada boleslav,slovan liberec,1,2
+sigma olomouc,teplice,2,0
+bohemians,jablonec,1,0
+sparta prague,karvina,1,3
+banik ostrava,opava,2,0
+pribram,plzen,1,1
+dukla prague,mlada boleslav,2,2
+fastav zlin,slavia praha,1,0
+slovan liberec,slovacko,3,2
+plzen,dukla prague,4,0
+slovacko,bohemians,1,1
+jablonec,banik ostrava,4,0
+mlada boleslav,fastav zlin,3,0
+opava,sparta prague,0,3
+karvina,slovan liberec,2,1
+slavia praha,sigma olomouc,2,1
+teplice,pribram,0,0
+slovan liberec,sigma olomouc,3,0
+plzen,slovacko,2,1
+slavia praha,bohemians,1,0
+zorya luhansk,mariupol,2,1
+karpaty lviv,oleksandriya,0,2
+arsenal kyiv,lviv,0,2
+chornomorets,olimpik donetsk,2,1
+dynamo kyiv,vorskla poltava,1,0
+desna chernihiv,shakhtar donetsk,0,2
+oleksandriya,zorya luhansk,1,0
+lviv,dynamo kyiv,0,1
+karpaty lviv,chornomorets,1,0
+olimpik donetsk,vorskla poltava,1,0
+mariupol,desna chernihiv,1,4
+shakhtar donetsk,arsenal kyiv,3,0
+dynamo kyiv,shakhtar donetsk,1,0
+vorskla poltava,lviv,1,0
+zorya luhansk,chornomorets,1,1
+karpaty lviv,olimpik donetsk,2,2
+desna chernihiv,oleksandriya,0,2
+arsenal kyiv,mariupol,1,2
+olimpik donetsk,lviv,1,1
+shakhtar donetsk,vorskla poltava,4,1
+karpaty lviv,zorya luhansk,0,1
+oleksandriya,arsenal kyiv,1,0
+chornomorets,desna chernihiv,1,0
+arsenal kyiv,chornomorets,1,1
+lviv,shakhtar donetsk,0,2
+dynamo kyiv,oleksandriya,1,0
+desna chernihiv,karpaty lviv,2,2
+vorskla poltava,mariupol,2,1
+zorya luhansk,olimpik donetsk,0,0
+olimpik donetsk,shakhtar donetsk,2,5
+oleksandriya,vorskla poltava,2,0
+chornomorets,dynamo kyiv,1,1
+mariupol,lviv,2,2
+karpaty lviv,arsenal kyiv,1,2
+zorya luhansk,desna chernihiv,0,2
+vorskla poltava,chornomorets,2,1
+shakhtar donetsk,mariupol,2,0
+desna chernihiv,olimpik donetsk,0,1
+lviv,oleksandriya,2,2
+arsenal kyiv,zorya luhansk,0,5
+dynamo kyiv,karpaty lviv,0,2
+desna chernihiv,arsenal kyiv,1,0
+oleksandriya,shakhtar donetsk,0,2
+karpaty lviv,vorskla poltava,0,1
+olimpik donetsk,mariupol,1,3
+zorya luhansk,dynamo kyiv,1,1
+chornomorets,lviv,0,1
+mariupol,oleksandriya,1,0
+lviv,karpaty lviv,1,1
+arsenal kyiv,olimpik donetsk,1,3
+shakhtar donetsk,chornomorets,3,0
+dynamo kyiv,desna chernihiv,4,0
+vorskla poltava,zorya luhansk,2,1
+mariupol,dynamo kyiv,0,2
+karpaty lviv,shakhtar donetsk,1,6
+olimpik donetsk,oleksandriya,2,3
+desna chernihiv,vorskla poltava,0,2
+zorya luhansk,lviv,0,0
+chornomorets,mariupol,0,1
+arsenal kyiv,dynamo kyiv,0,1
+mariupol,karpaty lviv,1,1
+oleksandriya,chornomorets,3,2
+lviv,desna chernihiv,1,3
+dynamo kyiv,olimpik donetsk,1,0
+shakhtar donetsk,zorya luhansk,1,1
+vorskla poltava,arsenal kyiv,0,2
+shakhtar donetsk,desna chernihiv,1,0
+mariupol,zorya luhansk,3,2
+vorskla poltava,dynamo kyiv,0,1
+lviv,arsenal kyiv,1,0
+olimpik donetsk,chornomorets,1,0
+oleksandriya,karpaty lviv,2,1
+desna chernihiv,mariupol,2,0
+zorya luhansk,oleksandriya,0,0
+arsenal kyiv,shakhtar donetsk,0,3
+chornomorets,karpaty lviv,0,5
+dynamo kyiv,lviv,0,1
+vorskla poltava,olimpik donetsk,2,1
+mariupol,arsenal kyiv,1,0
+shakhtar donetsk,dynamo kyiv,2,1
+olimpik donetsk,karpaty lviv,1,2
+oleksandriya,desna chernihiv,1,1
+lviv,vorskla poltava,0,2
+chornomorets,zorya luhansk,0,3
+lviv,olimpik donetsk,1,1
+desna chernihiv,chornomorets,2,0
+zorya luhansk,karpaty lviv,2,1
+arsenal kyiv,oleksandriya,0,3
+dynamo kyiv,mariupol,4,0
+vorskla poltava,shakhtar donetsk,0,2
+shakhtar donetsk,lviv,0,0
+karpaty lviv,desna chernihiv,0,2
+mariupol,vorskla poltava,1,0
+olimpik donetsk,zorya luhansk,1,1
+oleksandriya,dynamo kyiv,2,1
+desna chernihiv,zorya luhansk,0,2
+arsenal kyiv,karpaty lviv,1,1
+lviv,mariupol,2,2
+shakhtar donetsk,olimpik donetsk,2,2
+vorskla poltava,oleksandriya,0,1
+dynamo kyiv,chornomorets,2,0
+mariupol,shakhtar donetsk,0,3
+zorya luhansk,arsenal kyiv,3,0
+karpaty lviv,dynamo kyiv,0,4
+chornomorets,vorskla poltava,0,1
+olimpik donetsk,desna chernihiv,1,1
+oleksandriya,lviv,1,2
+mariupol,olimpik donetsk,2,1
+lviv,chornomorets,0,1
+arsenal kyiv,desna chernihiv,0,2
+vorskla poltava,karpaty lviv,0,4
+dynamo kyiv,zorya luhansk,5,0
+shakhtar donetsk,oleksandriya,2,0
+desna chernihiv,dynamo kyiv,1,2
+chornomorets,shakhtar donetsk,0,1
+zorya luhansk,vorskla poltava,3,0
+olimpik donetsk,arsenal kyiv,0,1
+karpaty lviv,lviv,0,1
+oleksandriya,mariupol,1,1
+mariupol,chornomorets,0,0
+vorskla poltava,desna chernihiv,0,0
+lviv,zorya luhansk,0,0
+shakhtar donetsk,karpaty lviv,5,0
+dynamo kyiv,arsenal kyiv,4,0
+oleksandriya,olimpik donetsk,1,1
+chornomorets,oleksandriya,0,3
+zorya luhansk,shakhtar donetsk,0,1
+desna chernihiv,lviv,0,1
+karpaty lviv,mariupol,1,1
+olimpik donetsk,dynamo kyiv,1,2
+arsenal kyiv,vorskla poltava,2,2
+chornomorets,arsenal kyiv,2,1
+basel,st gallen,1,2
+luzern,neuchatel xamax,0,2
+young boys,grasshopper,2,0
+sion,lugano,1,2
+zurich,thun,2,1
+grasshopper,zurich,0,2
+neuchatel xamax,basel,1,1
+lugano,young boys,0,2
+st gallen,sion,2,4
+thun,luzern,2,1
+basel,grasshopper,4,2
+luzern,lugano,4,2
+young boys,zurich,4,0
+sion,neuchatel xamax,3,0
+st gallen,thun,3,2
+lugano,grasshopper,2,2
+neuchatel xamax,thun,1,5
+basel,sion,3,2
+luzern,young boys,2,3
+zurich,st gallen,0,0
+young boys,neuchatel xamax,5,2
+grasshopper,sion,2,1
+zurich,basel,1,1
+st gallen,luzern,0,1
+thun,lugano,1,1
+lugano,zurich,1,0
+sion,young boys,0,3
+basel,thun,1,1
+luzern,grasshopper,2,1
+neuchatel xamax,st gallen,2,3
+grasshopper,neuchatel xamax,3,1
+thun,sion,4,1
+young boys,basel,7,1
+st gallen,lugano,2,2
+zurich,luzern,1,0
+grasshopper,thun,0,2
+young boys,st gallen,2,0
+basel,luzern,2,1
+neuchatel xamax,lugano,2,1
+sion,zurich,1,2
+st gallen,grasshopper,2,1
+thun,young boys,1,4
+lugano,basel,2,2
+luzern,sion,1,3
+zurich,neuchatel xamax,0,0
+st gallen,basel,1,3
+young boys,luzern,2,3
+grasshopper,lugano,2,1
+neuchatel xamax,sion,1,1
+thun,zurich,2,2
+luzern,thun,0,2
+zurich,young boys,3,3
+basel,neuchatel xamax,1,1
+lugano,st gallen,3,1
+sion,grasshopper,0,0
+grasshopper,basel,1,3
+young boys,sion,3,2
+neuchatel xamax,luzern,1,2
+lugano,thun,2,1
+st gallen,zurich,3,2
+grasshopper,young boys,0,3
+thun,neuchatel xamax,2,2
+basel,lugano,3,2
+luzern,zurich,2,5
+sion,st gallen,0,1
+lugano,luzern,1,4
+thun,basel,4,2
+neuchatel xamax,grasshopper,2,3
+st gallen,young boys,2,3
+zurich,sion,1,2
+neuchatel xamax,zurich,3,3
+young boys,lugano,1,0
+grasshopper,st gallen,2,1
+luzern,basel,1,1
+sion,thun,2,1
+sion,luzern,2,0
+thun,st gallen,2,0
+basel,young boys,1,3
+lugano,neuchatel xamax,2,2
+zurich,grasshopper,2,0
+st gallen,neuchatel xamax,3,2
+young boys,thun,3,2
+basel,zurich,2,0
+grasshopper,luzern,2,3
+lugano,sion,2,2
+sion,basel,1,2
+thun,grasshopper,1,0
+neuchatel xamax,young boys,1,4
+luzern,st gallen,2,1
+zurich,lugano,0,0
+young boys,neuchatel xamax,2,0
+grasshopper,basel,0,4
+lugano,thun,1,3
+st gallen,zurich,3,1
+luzern,sion,1,3
+basel,st gallen,1,1
+zurich,grasshopper,3,1
+neuchatel xamax,luzern,2,1
+sion,lugano,2,2
+thun,young boys,1,1
+luzern,lugano,0,3
+st gallen,thun,1,3
+basel,sion,1,0
+grasshopper,neuchatel xamax,0,1
+young boys,zurich,2,0
+neuchatel xamax,basel,0,2
+sion,st gallen,2,2
+lugano,young boys,0,1
+thun,grasshopper,1,1
+zurich,luzern,1,1
+grasshopper,luzern,1,3
+young boys,sion,1,0
+basel,thun,3,1
+st gallen,neuchatel xamax,3,0
+zurich,lugano,0,1
+grasshopper,young boys,0,1
+neuchatel xamax,sion,3,1
+lugano,basel,1,1
+luzern,st gallen,3,0
+thun,zurich,2,2
+sion,grasshopper,3,0
+st gallen,lugano,0,2
+basel,young boys,2,2
+thun,luzern,1,1
+zurich,neuchatel xamax,2,1
+luzern,basel,0,1
+sion,zurich,1,0
+grasshopper,lugano,1,1
+neuchatel xamax,thun,3,2
+young boys,st gallen,3,2
+lugano,neuchatel xamax,0,0
+st gallen,grasshopper,0,0
+zurich,basel,0,2
+thun,sion,1,2
+luzern,young boys,1,3
+grasshopper,zurich,1,1
+neuchatel xamax,st gallen,0,1
+basel,lugano,1,1
+sion,luzern,2,2
+young boys,thun,5,1
+basel,grasshopper,0,0
+luzern,neuchatel xamax,0,1
+lugano,sion,1,1
+thun,st gallen,0,0
+zurich,young boys,0,1
+lugano,zurich,3,0
+sion,basel,0,3
+grasshopper,thun,1,1
+st gallen,luzern,1,2
+neuchatel xamax,young boys,1,0
+neuchatel xamax,grasshopper,1,1
+luzern,thun,3,1
+st gallen,basel,0,3
+young boys,lugano,2,2
+zurich,sion,1,0
+basel,zurich,3,0
+grasshopper,st gallen,0,1
+lugano,luzern,1,0
+thun,neuchatel xamax,0,2
+sion,young boys,0,4
+neuchatel xamax,zurich,1,2
+thun,lugano,1,0
+luzern,grasshopper,4,0
+st gallen,sion,2,1
+young boys,basel,3,1
+basel,luzern,3,2
+sion,neuchatel xamax,1,0
+zurich,thun,3,0
+lugano,st gallen,1,0
+young boys,grasshopper,6,1
+grasshopper,sion,0,3
+neuchatel xamax,lugano,1,1
+luzern,zurich,3,0
+st gallen,young boys,4,1
+thun,basel,1,2
+basel,neuchatel xamax,4,1
+lugano,grasshopper,3,3
+sion,thun,0,1
+young boys,luzern,4,0
+zurich,st gallen,1,1

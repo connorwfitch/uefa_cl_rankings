@@ -31,50 +31,225 @@ psv,28,ned
 shakhtar donetsk,29,ukr
 valencia,30,esp
 young boys,31,sui
-bate,32,blr
-dinamo zagreb,33,cro
-dynamo kyiv,34,ukr
-fehervar,35,hun
-paok,36,gre
-salzburg,37,aut
-astana,38,kaz
-celtic,39,sco
-fenerbahce,40,tur
-malmo,41,swe
-qarabag,42,aze
-shkendija,43,mkd
-slavia praha,44,cze
-spartak moskva,45,rus
-spartak trnava,46,svk
-standard liege,47,bel
-basel,48,sui
-cfr cluj,49,rou
-h beer sheva,50,isr
-hjk,51,fin
-kukes,52,alb
-legia,53,pol
-ludogorets,54,bul
-midtjylland,55,den
-rosenborg,56,nor
-sheriff,57,mda
-sturm,58,aut
-suduva,59,ltu
-alashkert,60,arm
-apoel,61,cyp
-cork,62,irl
-crusaders,63,nir
-drita,64,kos
-dudelange,65,lux
-flora,66,est
-olimpija ljubljana,67,svn
-spartaks jurmala,68,lva
-sutjeska,69,mne
-tns,70,wal
-torpedo kutaisi,71,geo
-valletta,72,mlt
-valur,73,isl
-vikingur,74,fro
-zrinjski,75,bih
-fc santa coloma,76,and
-la fiorita,77,smr
-lincoln red imps,78,gib
+dynamo kyiv,32,ukr
+paok,33,gre
+fenerbahce,34,tur
+slavia praha,35,cze
+spartak moskva,36,rus
+standard liege,37,bel
+basel,38,sui
+marseille,39,fra
+toulouse,40,fra
+nantes,41,fra
+angers,42,fra
+nimes,43,fra
+lille,44,fra
+rennes,45,fra
+montpellier,46,fra
+dijon,47,fra
+nice,48,fra
+reims,49,fra
+saint etienne,50,fra
+guingamp,51,fra
+amiens,52,fra
+bordeaux,53,fra
+strasbourg alsace,54,fra
+caen,55,fra
+leipzig,56,ger
+leverkusen,57,ger
+borussia monchengladbach,58,ger
+wolfsburg,59,ger
+frankfurt,60,ger
+bremen,61,ger
+dusseldorf,62,ger
+berlin,63,ger
+mainz,64,ger
+freiburg,65,ger
+augsburg,66,ger
+stuttgart,67,ger
+hannover,68,ger
+nurnberg,69,ger
+chelsea,70,eng
+arsenal,71,eng
+wolverhampton,72,eng
+everton,73,eng
+leicester,74,eng
+west ham,75,eng
+watford,76,eng
+crystal palace,77,eng
+newcastle,78,eng
+bournemouth,79,eng
+burnley,80,eng
+southampton,81,eng
+brighton,82,eng
+cardiff,83,eng
+fulham,84,eng
+huddersfield,85,eng
+chievo,86,ita
+lazio,87,ita
+torino,88,ita
+bologna,89,ita
+spal,90,ita
+empoli,91,ita
+cagliari,92,ita
+parma,93,ita
+udinese,94,ita
+sassuolo,95,ita
+atalanta,96,ita
+frosinone,97,ita
+sampdoria,98,ita
+fiorentina,99,ita
+milan,100,ita
+genoa,101,ita
+ado den haag,102,ned
+az,103,ned
+emmen,104,ned
+excelsior,105,ned
+feyenoord,106,ned
+fortuna sittard,107,ned
+de graafschap,108,ned
+groningen,109,ned
+heerenveen,110,ned
+heracles almelo,111,ned
+nac breda,112,ned
+pec zwolle,113,ned
+utrecht,114,ned
+vitesse,115,ned
+vvv venlo,116,ned
+willem ii,117,ned
+girona,118,esp
+valladolid,119,esp
+real betis,120,esp
+levante,121,esp
+celta vigo,122,esp
+espanyol,123,esp
+villarreal,124,esp
+real sociedad,125,esp
+deportivo alaves,126,esp
+eibar,127,esp
+huesca,128,esp
+rayo vallecano,129,esp
+sevilla,130,esp
+getafe,131,esp
+athletic bilbao,132,esp
+leganes,133,esp
+belenenses,134,por
+boavista,135,por
+braga,136,por
+chaves,137,por
+desportivo aves,138,por
+feirense,139,por
+maritimo,140,por
+moreirense,141,por
+nacional,142,por
+portimonense,143,por
+rio ave,144,por
+santa clara,145,por
+sporting cp,146,por
+tondela,147,por
+v guimaraes,148,por
+v setubal,149,por
+panaitolikos,150,gre
+apollon,151,gre
+xanthi,152,gre
+panionios,153,gre
+olympiakos,154,gre
+lamia,155,gre
+atromitos,156,gre
+asteras,157,gre
+pas,158,gre
+larissa,159,gre
+panathinaikos,160,gre
+ofi,161,gre
+levadiakos,162,gre
+aris,163,gre
+kortrijk,164,bel
+zulte,165,bel
+sint truiden,166,bel
+kv,167,bel
+charleroi,168,bel
+lokeren,169,bel
+gent,170,bel
+anderlecht,171,bel
+waasland beveren,172,bel
+cercle,173,bel
+royal excel,174,bel
+as eupen,175,bel
+antwerp,176,bel
+genk,177,bel
+radnicki nis,178,srb
+partizan,179,srb
+cukaricki,180,srb
+mladost lucani,181,srb
+napredak krus,182,srb
+vojvodina,183,srb
+proleter,184,srb
+radnik surdulica,185,srb
+spartak subotic,186,srb
+macva sabac,187,srb
+vozdovac,188,srb
+rad,189,srb
+dinamo vranje,190,srb
+zemun,191,srb
+backa palanka,192,srb
+zenit,193,rus
+krasnodar,194,rus
+arsenal tula,195,rus
+orenburg,196,rus
+akhmat grozny,197,rus
+rostov,198,rus
+ural,199,rus
+rubin kazan,200,rus
+dynamo mosc,201,rus
+samara,202,rus
+ufa,203,rus
+anzhi,204,rus
+yenisey,205,rus
+basaksehir,206,tur
+besiktas,207,tur
+trabzonspor,208,tur
+yeni malspor,209,tur
+antalyaspor,210,tur
+konyaspor,211,tur
+alanyaspor,212,tur
+kayserispor,213,tur
+rizespor,214,tur
+sivasspor,215,tur
+ankaragucu,216,tur
+kasimpasa,217,tur
+goztepe,218,tur
+bursaspor,219,tur
+bb erzurumspor,220,tur
+akhisarspor,221,tur
+sparta prague,222,cze
+jablonec,223,cze
+banik ostrava,224,cze
+slovan liberec,225,cze
+mlada boleslav,226,cze
+sigma olomouc,227,cze
+fastav zlin,228,cze
+teplice,229,cze
+bohemians,230,cze
+slovacko,231,cze
+opava,232,cze
+pribram,233,cze
+karvina,234,cze
+dukla prague,235,cze
+oleksandriya,236,ukr
+mariupol,237,ukr
+zorya luhansk,238,ukr
+lviv,239,ukr
+vorskla poltava,240,ukr
+desna chernihiv,241,ukr
+olimpik donetsk,242,ukr
+karpaty lviv,243,ukr
+chornomorets,244,ukr
+arsenal kyiv,245,ukr
+luzern,246,sui
+sion,247,sui
+zurich,248,sui
+st gallen,249,sui
+neuchatel xamax,250,sui
+grasshopper,251,sui
+lugano,252,sui
+thun,253,sui
