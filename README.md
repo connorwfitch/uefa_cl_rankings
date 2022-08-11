@@ -6,4 +6,4 @@ Bowdoin College
 
 Creating a ranking for european soccer teams using graph theory and linear algebra
 
-Methods are similar to PageRank
+Methods are a generalization of PageRank based off of a paper from Govan, Meyer, Albright (2008)
